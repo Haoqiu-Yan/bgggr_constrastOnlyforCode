@@ -11,10 +11,10 @@ ProjectDir='/home/lab421/MATLAB/projects/YanHaoqiuBgggr_constrastOnlyforCode';
 SysPathSeperator='/';
 AutomsDir='atoms';
 AutomsPath=[ProjectDir, SysPathSeperator, AutomsDir];
-algorithm='rbfnn';
+algorithm='ardgpr';
 CsvoutputDir=[algorithm, '_output'];
 CsvoutputPath=[ProjectDir, SysPathSeperator, CsvoutputDir];
-diary([ProjectDir, SysPathSeperator, 'c2_rbfnn_log1.txt'])
+diary([ProjectDir, SysPathSeperator, 'o1_ardgpr_log1.txt'])
 %cd [ProjectDir, SysPathSeperator, RootDir]
 AutomList=dir(AutomsPath); %获得o1,c2,...
 for j=1:length(AutomList)
@@ -23,7 +23,7 @@ for j=1:length(AutomList)
         continue;
     end
     autom=AutomList(j).name;
-	if strcmp(autom,'c2') == 0
+	if strcmp(autom,'o1') == 0
         disp(autom);
         continue 
 	end
@@ -40,7 +40,7 @@ for j=1:length(AutomList)
         DataSetNoExtn=DataSetNoExtn{1};
         DataSetPath=[AutomsPath, SysPathSeperator, autom, SysPathSeperator, DataSetsList(i).name];
         disp(['DataSet is: ', DataSetPath])
-        [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=rbfnn(DataSetPath);
+        [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=ardgpr(DataSetPath);
 
         %将预测值存入table
         %eval(['FitsTable.', DataSetNoExtn, '=ytest_fit;']);
@@ -66,6 +66,6 @@ for j=1:length(AutomList)
 
     writetable(FitsTable, FitsCsvPath, 'WriteVariableNames', true)
     writetable(StatisticsTable, StatisticsCsvPath, 'WriteRowNames', true, 'WriteVariableNames', true)
-    break
+     break
 end
 diary off

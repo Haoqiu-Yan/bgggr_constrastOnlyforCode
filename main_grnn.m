@@ -5,7 +5,7 @@ close all;
 core_number=25;            %想要调用的处理器个数
 parpool('local',core_number);
 % disp(['pwd4: ', pwd])
-ProjectDir='/home/lab421/MATLAB/projects/YanHaoqiuBgggr_constrast';
+ProjectDir='/home/lab421/MATLAB/projects/YanHaoqiuBgggr_constrastOnlyforCode';
 % ProjectDir='C:\Users\admin\MATLAB\Projects\bgggr_constract';
 % SysPathSeperator='\';
 SysPathSeperator='/';
@@ -14,7 +14,7 @@ AutomsPath=[ProjectDir, SysPathSeperator, AutomsDir];
 algorithm='grnn';
 CsvoutputDir=[algorithm, '_output'];
 CsvoutputPath=[ProjectDir, SysPathSeperator, CsvoutputDir];
-diary([ProjectDir, SysPathSeperator, 'log1_grnn.txt'])
+diary([ProjectDir, SysPathSeperator, 'c2_grnn_log1.txt'])
 %cd [ProjectDir, SysPathSeperator, RootDir]
 AutomList=dir(AutomsPath); %获得o1,c2,...
 for j=1:length(AutomList)
@@ -23,6 +23,10 @@ for j=1:length(AutomList)
         continue;
     end
     autom=AutomList(j).name;
+	if strcmp(autom,'c2') == 0
+        disp(autom);
+        continue 
+	end
     DataSetsList=dir([AutomsPath, SysPathSeperator, autom, SysPathSeperator, '*.mat']);
     FitsTable=table;
     StatisticsTable=table;
