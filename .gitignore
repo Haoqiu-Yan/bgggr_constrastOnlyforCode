@@ -1,0 +1,13 @@
+# 忽略输出结果
+grnn_output/
+rbfnn_output/
+bagging_output/
+grnn_output/
+kriging_output/
+ardgpr_output/
+# 制作数据
+makedata/
+Results/
+# 数据集
+atoms/
+
