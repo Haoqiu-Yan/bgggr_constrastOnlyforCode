@@ -2,19 +2,19 @@
 clear;
 close all;
 %Start Parallel Compute
-core_number=5;            %想要调用的处理器个数
+core_number=25;            %想要调用的处理器个数
 parpool('local',core_number);
 % disp(['pwd4: ', pwd])
-% ProjectDir='/home/lab421/MATLAB/projects/YanHaoqiuBgggr_constrastOnlyforCode';
-ProjectDir='C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode';
-SysPathSeperator='\';
-% SysPathSeperator='/';
-AutomsDir='atoms';
+ProjectDir='/home/lab421/MATLAB/projects/YanHaoqiuBgggr_constrastOnlyforCode';
+% ProjectDir='C:\Users\admin\MATLAB\Projects\bgggr_constract';
+% SysPathSeperator='\';
+SysPathSeperator='/';
+AutomsDir='atoms2';
 AutomsPath=[ProjectDir, SysPathSeperator, AutomsDir];
-algorithm='rbfnn';
+algorithm='grnn';
 CsvoutputDir=[algorithm, '_output'];
 CsvoutputPath=[ProjectDir, SysPathSeperator, CsvoutputDir];
-diary([ProjectDir, SysPathSeperator, 'o1_rbfnn_log1.txt'])
+diary([ProjectDir, SysPathSeperator, 'n4_grnn_log1.txt'])
 %cd [ProjectDir, SysPathSeperator, RootDir]
 AutomList=dir(AutomsPath); %获得o1,c2,...
 for j=1:length(AutomList)
@@ -23,7 +23,7 @@ for j=1:length(AutomList)
         continue;
     end
     autom=AutomList(j).name;
-	if strcmp(autom,'o1') == 0
+	if strcmp(autom,'n4') == 0
         disp(autom);
         continue 
 	end
@@ -40,7 +40,7 @@ for j=1:length(AutomList)
         DataSetNoExtn=DataSetNoExtn{1};
         DataSetPath=[AutomsPath, SysPathSeperator, autom, SysPathSeperator, DataSetsList(i).name];
         disp(['DataSet is: ', DataSetPath])
-        [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=rbfnn(DataSetPath);
+        [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=grnn(DataSetPath);
 
         %将预测值存入table
         %eval(['FitsTable.', DataSetNoExtn, '=ytest_fit;']);
@@ -66,6 +66,6 @@ for j=1:length(AutomList)
 
     writetable(FitsTable, FitsCsvPath, 'WriteVariableNames', true)
     writetable(StatisticsTable, StatisticsCsvPath, 'WriteRowNames', true, 'WriteVariableNames', true)
-    break
+     break
 end
 diary off

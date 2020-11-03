@@ -62,9 +62,11 @@ ell_result=[A;ell_result;];
 disp('We now make predictions on the test points and assess the accuracy of')
 disp('these predictions')
 %% Êý¾ÝÔ¤²â
-[ytest_fit, S2_test] = gpr(logtheta, covfunc, xtrain, ytrain, xtset);
 
 [ytrain_fit, S2_train] = gpr(logtheta, covfunc, xtrain, ytrain, xtrain);
+
+[ytest_fit, S2_test] = gpr(logtheta, covfunc, xtrain, ytrain, xtest);
+
 % ytest_fit = ytest_fit + offset;
 % res = ytest_fit-ytest;  % residuals
 % test_mse = mean(res.^2);

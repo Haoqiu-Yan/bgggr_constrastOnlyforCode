@@ -9,12 +9,12 @@ parpool('local',core_number);
 ProjectDir='C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode';
 SysPathSeperator='\';
 % SysPathSeperator='/';
-AutomsDir='atoms';
+AutomsDir='atoms2';
 AutomsPath=[ProjectDir, SysPathSeperator, AutomsDir];
 algorithm='rbfnn';
 CsvoutputDir=[algorithm, '_output'];
 CsvoutputPath=[ProjectDir, SysPathSeperator, CsvoutputDir];
-diary([ProjectDir, SysPathSeperator, 'o1_rbfnn_log1.txt'])
+diary([ProjectDir, SysPathSeperator, 'n4_rbfnn_log1.txt'])
 %cd [ProjectDir, SysPathSeperator, RootDir]
 AutomList=dir(AutomsPath); %»ñµÃo1,c2,...
 for j=1:length(AutomList)
@@ -23,7 +23,7 @@ for j=1:length(AutomList)
         continue;
     end
     autom=AutomList(j).name;
-	if strcmp(autom,'o1') == 0
+	if strcmp(autom,'n4') == 0
         disp(autom);
         continue 
 	end

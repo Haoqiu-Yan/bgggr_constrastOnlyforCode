@@ -1,0 +1,5452 @@
+c2
+h15
+DataSet is: C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode\atoms2\n4\n4_75_76.mat
+DataSet is: C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode\atoms2\n4\n4_75_77.mat
+DataSet is: C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode\atoms2\n4\n4_75_78.mat
+DataSet is: C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode\atoms2\n4\n4_75_79.mat
+以下为第1次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00167844
+以下为第1次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.004605
+以下为第1次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00456709
+以下为第1次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为20
+当前网络的mse为8.2256e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为25
+当前网络的mse为8.0407e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为30
+当前spread值为20
+当前网络的mse为8.0433e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为35
+当前网络的mse为0.00011938
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000150774
+NEWRB, neurons = 100, MSE = 0.000145842
+当前网络的mse为8.0448e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为40
+当前网络的mse为8.0459e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为45
+当前spread值为20
+当前spread值为20
+当前spread值为25
+当前网络的mse为8.0466e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为50
+当前网络的mse为0.00027677
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为0.00023189
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00050258
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0471e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为55
+当前网络的mse为8.0475e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为60
+当前网络的mse为8.0478e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为65
+当前spread值为30
+NEWRB, neurons = 100, MSE = 0.00014114
+当前网络的mse为8.048e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.0001305
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000154339
+当前spread值为70
+当前网络的mse为8.0482e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为75
+当前spread值为25
+当前网络的mse为8.0483e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为80
+当前spread值为25
+当前网络的mse为0.00025324
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为35
+当前网络的mse为8.0485e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.00024881
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为85
+当前网络的mse为0.00019704
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0486e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为90
+当前网络的mse为8.0486e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为95
+NEWRB, neurons = 100, MSE = 0.000143018
+当前网络的mse为8.0487e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为100
+当前spread值为40
+NEWRB, neurons = 100, MSE = 0.000148369
+当前网络的mse为8.0488e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.00019852
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为105
+当前spread值为30
+当前网络的mse为8.0488e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.00020383
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为110
+当前spread值为30
+当前网络的mse为8.0489e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为115
+当前网络的mse为0.00026295
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为45
+当前网络的mse为8.0489e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为120
+当前网络的mse为0.00030697
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0489e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为125
+NEWRB, neurons = 100, MSE = 0.000140613
+当前网络的mse为8.049e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为130
+当前网络的mse为8.049e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+NEWRB, neurons = 100, MSE = 0.000161744
+当前spread值为135
+当前spread值为50
+当前spread值为35
+当前网络的mse为8.049e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为140
+当前网络的mse为0.00034314
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00029115
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为35
+当前网络的mse为8.0491e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为145
+当前网络的mse为0.00034662
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为8.0491e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为150
+当前网络的mse为8.0491e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为155
+当前spread值为55
+当前网络的mse为8.0491e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+NEWRB, neurons = 100, MSE = 0.000149565
+当前网络的mse为0.00028314
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为160
+当前网络的mse为8.0491e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为165
+NEWRB, neurons = 100, MSE = 0.000174947
+当前spread值为40
+当前网络的mse为8.0491e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为170
+当前网络的mse为0.00030494
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为8.0491e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为60
+当前spread值为175
+当前spread值为40
+当前网络的mse为0.0082406
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为180
+当前网络的mse为0.00044288
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为185
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+NEWRB, neurons = 100, MSE = 0.000143767
+当前spread值为190
+当前spread值为65
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为195
+当前spread值为45
+当前网络的mse为0.00019255
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+NEWRB, neurons = 100, MSE = 0.000178519
+当前spread值为200
+当前网络的mse为0.00039961
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为205
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为210
+当前spread值为45
+当前spread值为70
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为215
+当前网络的mse为0.00036322
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.0062311
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000131888
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为220
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为225
+当前spread值为50
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.00032171
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为230
+当前spread值为75
+NEWRB, neurons = 100, MSE = 0.000155967
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为235
+当前网络的mse为0.0090303
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为240
+当前spread值为50
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为245
+当前网络的mse为0.00032544
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000134516
+当前网络的mse为8.0492e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为250
+当前spread值为80
+当前spread值为55
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.0033001
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为255
+当前网络的mse为0.00032484
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为260
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为265
+NEWRB, neurons = 100, MSE = 0.0001847
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为85
+当前spread值为270
+当前网络的mse为0.02992
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为275
+NEWRB, neurons = 100, MSE = 0.000135503
+当前spread值为55
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为280
+当前网络的mse为0.00040344
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为60
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为285
+当前网络的mse为0.00033686
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为90
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为290
+当前网络的mse为0.00037917
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为295
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+NEWRB, neurons = 100, MSE = 0.000162616
+当前spread值为300
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+NEWRB, neurons = 100, MSE = 0.000153087
+当前spread值为305
+当前spread值为95
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.014593
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为310
+当前spread值为60
+当前spread值为65
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.00032966
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为315
+当前网络的mse为0.00042111
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为320
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为100
+当前spread值为325
+当前网络的mse为0.0038668
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为330
+NEWRB, neurons = 100, MSE = 0.000169698
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+NEWRB, neurons = 100, MSE = 0.000148276
+当前spread值为335
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为340
+当前spread值为105
+当前spread值为65
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为70
+当前spread值为345
+当前网络的mse为0.011748
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00052009
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00041356
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为350
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为355
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为360
+当前spread值为110
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.0050821
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为365
+NEWRB, neurons = 100, MSE = 0.00016643
+NEWRB, neurons = 100, MSE = 0.000144169
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为370
+当前spread值为75
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为375
+当前网络的mse为0.00038597
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为70
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为115
+当前spread值为380
+当前网络的mse为0.0003357
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.002371
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为385
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为390
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+NEWRB, neurons = 100, MSE = 0.000147508
+当前spread值为395
+当前spread值为120
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+NEWRB, neurons = 100, MSE = 0.000165286
+当前spread值为400
+当前网络的mse为0.062872
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为80
+当前spread值为405
+当前网络的mse为0.0004058
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为410
+当前spread值为75
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为125
+当前网络的mse为0.00035265
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为415
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.17053
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为420
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为425
+NEWRB, neurons = 100, MSE = 0.000138825
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为430
+NEWRB, neurons = 100, MSE = 0.000164651
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为130
+当前spread值为85
+当前spread值为435
+当前网络的mse为0.12759
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00033929
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为440
+当前spread值为80
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为445
+当前网络的mse为0.00035484
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为450
+当前spread值为135
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为455
+当前网络的mse为0.042366
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000149456
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为460
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为90
+NEWRB, neurons = 100, MSE = 0.000154061
+当前spread值为465
+当前网络的mse为0.00039809
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为470
+当前spread值为140
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为475
+当前spread值为85
+当前网络的mse为0.0861
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前网络的mse为0.00045325
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为480
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为485
+NEWRB, neurons = 100, MSE = 0.000147024
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为490
+当前spread值为145
+当前spread值为95
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为495
+当前网络的mse为0.065764
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000166816
+当前网络的mse为0.00030325
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为8.0493e-05
+NEWRB, neurons = 0, MSE = 0.00167844
+当前spread值为500
+当前网络的mse为8.0493e-05
+以下为第2次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为20
+当前网络的mse为6.9755e-05
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为90
+当前spread值为150
+当前spread值为25
+当前网络的mse为0.00030405
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.017788
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为9.7984e-05
+NEWRB, neurons = 0, MSE = 0.00168984
+NEWRB, neurons = 100, MSE = 0.000149881
+当前spread值为30
+当前网络的mse为9.7875e-05
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为35
+当前spread值为100
+当前网络的mse为9.781e-05
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为40
+当前网络的mse为0.00041103
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为155
+NEWRB, neurons = 100, MSE = 0.000155858
+当前网络的mse为9.0805e-05
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为45
+当前网络的mse为0.031727
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为9.0813e-05
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为50
+当前网络的mse为0.00010519
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为95
+当前spread值为55
+NEWRB, neurons = 100, MSE = 0.000152154
+当前网络的mse为0.00028576
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00010519
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为60
+当前spread值为160
+当前网络的mse为0.00010518
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.041045
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为65
+当前spread值为105
+当前网络的mse为0.00010518
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.00030332
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为70
+当前网络的mse为0.00010518
+NEWRB, neurons = 0, MSE = 0.00168984
+NEWRB, neurons = 100, MSE = 0.000172643
+当前spread值为75
+当前spread值为165
+当前网络的mse为0.00010518
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为80
+当前网络的mse为0.0032703
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为85
+NEWRB, neurons = 100, MSE = 0.000162497
+当前spread值为100
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为90
+当前网络的mse为0.00024219
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为95
+当前spread值为110
+当前spread值为170
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.00050254
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为100
+当前网络的mse为0.042478
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为105
+NEWRB, neurons = 100, MSE = 0.000176029
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为110
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为175
+当前spread值为115
+NEWRB, neurons = 100, MSE = 0.000163142
+当前网络的mse为0.0092863
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为120
+当前spread值为105
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.00020746
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为125
+当前spread值为115
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为130
+当前网络的mse为0.00039017
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为180
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为135
+当前网络的mse为0.0091177
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为140
+NEWRB, neurons = 100, MSE = 0.00018254
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为145
+NEWRB, neurons = 100, MSE = 0.000160283
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为150
+当前spread值为185
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.0036526
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为110
+当前spread值为155
+当前spread值为120
+当前网络的mse为0.00031608
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.00024654
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为160
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为165
+当前spread值为190
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为170
+当前网络的mse为0.042716
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+NEWRB, neurons = 100, MSE = 0.000185236
+当前spread值为175
+NEWRB, neurons = 100, MSE = 0.000162436
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为180
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为125
+当前spread值为185
+当前spread值为195
+当前spread值为115
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.00061481
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为0.040308
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为190
+当前网络的mse为0.00023533
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为195
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为200
+当前spread值为200
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为205
+NEWRB, neurons = 100, MSE = 0.000149174
+当前网络的mse为0.0076406
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+NEWRB, neurons = 100, MSE = 0.000187178
+当前spread值为210
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为215
+当前spread值为130
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.00044481
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为220
+当前spread值为120
+当前spread值为205
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为225
+当前网络的mse为0.00038564
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.021954
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为230
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为235
+NEWRB, neurons = 100, MSE = 0.000142502
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为240
+当前spread值为210
+NEWRB, neurons = 100, MSE = 0.000171205
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.034225
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为245
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为250
+当前spread值为135
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为125
+当前spread值为255
+当前网络的mse为0.00044001
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为0.00025319
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为215
+当前spread值为260
+当前网络的mse为0.0025062
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为265
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为270
+NEWRB, neurons = 100, MSE = 0.000151404
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为275
+NEWRB, neurons = 100, MSE = 0.00018117
+当前spread值为220
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为280
+当前网络的mse为0.13178
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为285
+当前spread值为130
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为290
+当前网络的mse为0.00016397
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为295
+当前spread值为225
+当前spread值为140
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.060341
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为300
+当前网络的mse为0.00048109
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为305
+NEWRB, neurons = 100, MSE = 0.000162713
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为310
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为230
+当前spread值为315
+当前网络的mse为0.30395
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000161457
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为135
+当前spread值为320
+当前网络的mse为0.00054813
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为325
+当前spread值为145
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为330
+当前网络的mse为0.00059934
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为235
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为335
+当前网络的mse为0.14298
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+NEWRB, neurons = 100, MSE = 0.000182413
+当前spread值为340
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为345
+NEWRB, neurons = 100, MSE = 0.000156447
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为240
+当前spread值为350
+当前spread值为140
+当前网络的mse为0.10882
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.00042148
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为355
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为360
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为365
+当前spread值为245
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为370
+当前网络的mse为0.13922
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000186134
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为375
+NEWRB, neurons = 200, MSE = 0.000106092
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为380
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为250
+当前spread值为145
+当前spread值为385
+当前spread值为150
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.14383
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00028484
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为390
+当前网络的mse为0.0004621
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为395
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为400
+当前spread值为255
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为405
+NEWRB, neurons = 100, MSE = 0.000182198
+当前网络的mse为0.086091
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+NEWRB, neurons = 100, MSE = 0.00014054
+当前spread值为410
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为415
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为150
+当前spread值为420
+当前spread值为260
+当前网络的mse为0.00021946
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.017786
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为425
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为430
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为435
+NEWRB, neurons = 200, MSE = 0.00010266
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为265
+NEWRB, neurons = 100, MSE = 0.000175546
+当前spread值为440
+当前网络的mse为0.059287
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为445
+当前spread值为155
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前网络的mse为0.00049795
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为450
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为455
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+NEWRB, neurons = 100, MSE = 0.000102728
+当前spread值为460
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为465
+当前spread值为270
+NEWRB, neurons = 100, MSE = 0.000137515
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+NEWRB, neurons = 200, MSE = 0.000117866
+当前网络的mse为0.27329
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为470
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为475
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为480
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为275
+当前spread值为485
+当前网络的mse为0.23915
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为490
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为495
+NEWRB, neurons = 200, MSE = 0.000106757
+当前网络的mse为0.00010517
+NEWRB, neurons = 0, MSE = 0.00168984
+当前spread值为500
+当前spread值为280
+当前网络的mse为0.00010517
+以下为第3次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为20
+当前网络的mse为0.064665
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为6.931e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为25
+NEWRB, neurons = 300, MSE = 0.000103856
+当前网络的mse为6.9264e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为30
+当前网络的mse为6.924e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为35
+当前spread值为285
+当前网络的mse为7.5729e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为40
+当前网络的mse为0.046981
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.1533e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为45
+当前网络的mse为7.1542e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为155
+当前spread值为50
+当前spread值为160
+当前网络的mse为0.00037789
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为7.1549e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为55
+当前spread值为290
+当前网络的mse为0.00051924
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为7.1554e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前网络的mse为0.069541
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为60
+当前网络的mse为7.1558e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为65
+当前网络的mse为7.1561e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为70
+NEWRB, neurons = 100, MSE = 0.000173481
+NEWRB, neurons = 100, MSE = 0.000161752
+当前网络的mse为7.1563e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为295
+当前spread值为75
+当前网络的mse为0.29281
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.1565e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为80
+当前网络的mse为7.1566e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为85
+当前网络的mse为7.1568e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为90
+当前spread值为300
+当前网络的mse为7.1569e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为95
+当前网络的mse为0.16706
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 200, MSE = 0.000110865
+当前网络的mse为7.157e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为100
+NEWRB, neurons = 200, MSE = 0.000123973
+当前网络的mse为7.1571e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为105
+当前网络的mse为7.1571e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为110
+当前spread值为305
+当前网络的mse为7.1572e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为115
+当前网络的mse为0.38371
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为160
+当前网络的mse为7.1572e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为120
+当前网络的mse为0.00029739
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为7.1573e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为125
+当前网络的mse为7.1573e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为130
+NEWRB, neurons = 100, MSE = 0.000105761
+当前网络的mse为7.1573e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为135
+NEWRB, neurons = 100, MSE = 0.000178031
+当前网络的mse为7.1574e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为140
+当前spread值为310
+NEWRB, neurons = 300, MSE = 0.000112357
+当前网络的mse为7.1574e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为145
+当前网络的mse为0.077271
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.1574e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为150
+当前网络的mse为7.1575e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为155
+当前网络的mse为7.1575e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为160
+NEWRB, neurons = 100, MSE = 0.00011381
+当前网络的mse为7.1575e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为315
+当前spread值为165
+NEWRB, neurons = 200, MSE = 0.000104274
+当前spread值为165
+当前网络的mse为0.28361
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.1575e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为170
+当前网络的mse为0.00026826
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为7.1575e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为175
+当前网络的mse为7.1575e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为180
+当前spread值为320
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为185
+当前网络的mse为0.034466
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000172913
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为165
+当前spread值为190
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前网络的mse为0.00032789
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为195
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为200
+NEWRB, neurons = 100, MSE = 0.000111278
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为205
+当前spread值为325
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为210
+NEWRB, neurons = 100, MSE = 0.000143123
+当前网络的mse为0.39822
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为215
+NEWRB, neurons = 200, MSE = 0.000133647
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为220
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为225
+NEWRB, neurons = 100, MSE = 0.000116165
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为230
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为235
+当前spread值为330
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+NEWRB, neurons = 200, MSE = 0.000109614
+当前网络的mse为0.0012039
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为240
+当前网络的mse为7.1576e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为245
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为250
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为255
+NEWRB, neurons = 100, MSE = 0.000115416
+NEWRB, neurons = 300, MSE = 0.000104083
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为335
+当前spread值为260
+当前网络的mse为0.091639
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为265
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为270
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为275
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+NEWRB, neurons = 100, MSE = 0.000121123
+当前spread值为280
+当前spread值为170
+NEWRB, neurons = 300, MSE = 0.000106829
+当前网络的mse为0.0002352
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为285
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为290
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为295
+当前spread值为340
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为300
+NEWRB, neurons = 100, MSE = 0.000184295
+当前spread值为170
+当前网络的mse为0.17478
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前网络的mse为0.00063697
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为305
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为310
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为315
+NEWRB, neurons = 100, MSE = 0.000120856
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为320
+NEWRB, neurons = 100, MSE = 0.000148364
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为325
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+NEWRB, neurons = 200, MSE = 0.00011408
+当前spread值为330
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为335
+当前spread值为345
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为340
+当前网络的mse为0.0019652
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为345
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为350
+NEWRB, neurons = 200, MSE = 0.000116314
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为355
+NEWRB, neurons = 100, MSE = 0.000125368
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为360
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为365
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为370
+NEWRB, neurons = 300, MSE = 0.000101452
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为375
+当前spread值为175
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为380
+当前网络的mse为0.00043235
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为385
+NEWRB, neurons = 200, MSE = 0.00011447
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为390
+当前spread值为175
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为395
+当前网络的mse为0.00077486
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+NEWRB, neurons = 100, MSE = 0.000185882
+当前spread值为400
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为405
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为410
+NEWRB, neurons = 100, MSE = 0.000150355
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为415
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为420
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为425
+NEWRB, neurons = 200, MSE = 0.000119961
+NEWRB, neurons = 300, MSE = 0.000101168
+当前spread值为350
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为430
+当前网络的mse为0.14903
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为435
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+NEWRB, neurons = 200, MSE = 0.000116823
+当前spread值为440
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为445
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+NEWRB, neurons = 100, MSE = 0.000137468
+当前spread值为450
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为455
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为460
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为465
+NEWRB, neurons = 300, MSE = 0.000105871
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为470
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为475
+NEWRB, neurons = 200, MSE = 0.000119735
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为480
+NEWRB, neurons = 300, MSE = 0.000106002
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为485
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前spread值为490
+当前spread值为180
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前网络的mse为0.00024981
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为495
+当前spread值为180
+当前网络的mse为7.1577e-05
+NEWRB, neurons = 0, MSE = 0.00168669
+当前网络的mse为0.00074186
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为500
+当前网络的mse为7.1577e-05
+以下为第4次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为20
+当前网络的mse为6.2432e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为25
+NEWRB, neurons = 100, MSE = 0.000200899
+当前网络的mse为6.2431e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为30
+当前spread值为355
+NEWRB, neurons = 100, MSE = 0.000150508
+当前网络的mse为7.2975e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前网络的mse为0.37022
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为35
+当前网络的mse为6.2003e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为40
+当前网络的mse为6.201e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为45
+当前网络的mse为6.2015e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为50
+NEWRB, neurons = 100, MSE = 0.00013165
+当前网络的mse为6.2018e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为55
+NEWRB, neurons = 200, MSE = 0.000111085
+当前网络的mse为6.2021e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为60
+NEWRB, neurons = 200, MSE = 0.000109545
+当前网络的mse为6.2023e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为65
+当前网络的mse为6.2024e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为70
+当前网络的mse为6.2025e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为75
+当前网络的mse为6.2026e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为80
+当前网络的mse为6.2027e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 200, MSE = 0.000119132
+当前spread值为85
+当前网络的mse为6.2028e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为90
+当前网络的mse为6.2028e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为95
+当前网络的mse为6.2029e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为100
+NEWRB, neurons = 300, MSE = 0.00010457
+当前网络的mse为6.2029e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为105
+NEWRB, neurons = 300, MSE = 0.000105782
+当前网络的mse为6.203e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为110
+当前网络的mse为6.203e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为115
+当前网络的mse为6.203e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为120
+当前网络的mse为6.203e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为125
+当前网络的mse为6.2031e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 300, MSE = 0.000106793
+当前spread值为185
+当前spread值为130
+当前网络的mse为0.00019331
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为6.2031e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为135
+当前网络的mse为6.2031e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为140
+当前网络的mse为6.2031e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为145
+当前spread值为360
+当前网络的mse为6.2031e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为150
+当前网络的mse为0.34082
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000172952
+当前网络的mse为6.2031e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为155
+当前网络的mse为6.2031e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为160
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为165
+当前spread值为185
+NEWRB, neurons = 100, MSE = 0.000130562
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为170
+当前网络的mse为0.00086413
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为175
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为180
+NEWRB, neurons = 200, MSE = 0.000116697
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为185
+NEWRB, neurons = 100, MSE = 0.000154
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为190
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为195
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 200, MSE = 0.000106228
+当前spread值为200
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为205
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为210
+当前spread值为365
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为215
+当前网络的mse为0.28722
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 200, MSE = 0.00012213
+当前spread值为220
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为225
+NEWRB, neurons = 300, MSE = 0.000117859
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为230
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 100, MSE = 0.000131128
+当前spread值为235
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为240
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为245
+当前网络的mse为6.2032e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为250
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为255
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为260
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 300, MSE = 0.000114414
+NEWRB, neurons = 200, MSE = 0.000106707
+当前spread值为265
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为270
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为275
+当前spread值为370
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前网络的mse为0.41826
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为280
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 400, MSE = 0.000105535
+当前spread值为285
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为290
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为295
+NEWRB, neurons = 100, MSE = 0.000116526
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为300
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为305
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为310
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为315
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为320
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 400, MSE = 0.000106745
+当前spread值为325
+NEWRB, neurons = 200, MSE = 0.000106304
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为330
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为335
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为340
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为345
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为350
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为355
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为360
+NEWRB, neurons = 500, MSE = 0.000108139
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为375
+当前spread值为190
+当前网络的mse为0.00021764
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为365
+当前网络的mse为0.050554
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为370
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为375
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为380
+NEWRB, neurons = 100, MSE = 0.000188598
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 100, MSE = 0.00013705
+当前spread值为385
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为390
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为395
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 500, MSE = 0.000110274
+当前spread值为400
+当前spread值为190
+当前网络的mse为0.00089916
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为405
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为410
+NEWRB, neurons = 200, MSE = 0.000141071
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 200, MSE = 0.000123467
+当前spread值为415
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为420
+NEWRB, neurons = 100, MSE = 0.000154121
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为425
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为430
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为435
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为440
+当前spread值为380
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为445
+当前网络的mse为0.14981
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为450
+NEWRB, neurons = 200, MSE = 0.000123859
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 300, MSE = 0.000120433
+当前spread值为455
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为460
+NEWRB, neurons = 100, MSE = 0.000125627
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为465
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为470
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为475
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为480
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为485
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为490
+NEWRB, neurons = 200, MSE = 0.000116505
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+NEWRB, neurons = 300, MSE = 0.000110913
+当前spread值为495
+当前网络的mse为7.9637e-05
+NEWRB, neurons = 0, MSE = 0.00169605
+当前spread值为500
+当前网络的mse为7.9637e-05
+以下为第5次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为20
+当前网络的mse为0.00029325
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为25
+NEWRB, neurons = 400, MSE = 0.000111653
+当前网络的mse为0.0002884
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为30
+当前spread值为385
+当前网络的mse为0.00032558
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为35
+当前网络的mse为0.0043081
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00033062
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为40
+当前网络的mse为0.00032944
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为45
+当前网络的mse为0.00032863
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为50
+NEWRB, neurons = 100, MSE = 0.000129892
+当前网络的mse为0.00032003
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为55
+当前网络的mse为0.00031965
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为60
+当前网络的mse为0.00031936
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为65
+NEWRB, neurons = 400, MSE = 0.000107686
+当前网络的mse为0.00031913
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为70
+当前网络的mse为0.00031895
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为75
+当前网络的mse为0.00031881
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为80
+NEWRB, neurons = 200, MSE = 0.000108242
+当前网络的mse为0.00031869
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为85
+当前网络的mse为0.00031859
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为90
+当前网络的mse为0.00031851
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为95
+当前网络的mse为0.00031844
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为100
+NEWRB, neurons = 500, MSE = 0.000113224
+当前网络的mse为0.00031838
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为105
+当前spread值为195
+当前网络的mse为0.00028169
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00031833
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为110
+当前网络的mse为0.00031828
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为115
+当前网络的mse为0.00031824
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为120
+当前spread值为195
+NEWRB, neurons = 100, MSE = 0.00018643
+当前网络的mse为0.00031821
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为125
+NEWRB, neurons = 300, MSE = 0.000111356
+当前网络的mse为0.00071492
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为0.00031818
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为130
+当前网络的mse为0.00031815
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为135
+当前网络的mse为0.00031813
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为140
+NEWRB, neurons = 100, MSE = 0.000187721
+当前网络的mse为0.00031811
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为145
+当前网络的mse为0.00031809
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为150
+NEWRB, neurons = 200, MSE = 0.000139405
+当前网络的mse为0.00031807
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为155
+当前网络的mse为0.00031806
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为160
+当前spread值为390
+当前网络的mse为0.00031804
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为165
+当前网络的mse为0.0060994
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00031803
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为170
+NEWRB, neurons = 200, MSE = 0.000140357
+当前网络的mse为0.00031802
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为175
+当前网络的mse为0.00031801
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为180
+NEWRB, neurons = 100, MSE = 0.00013545
+当前网络的mse为0.000318
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为185
+当前网络的mse为0.00031799
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为190
+当前网络的mse为0.00031798
+NEWRB, neurons = 0, MSE = 0.0015047
+NEWRB, neurons = 300, MSE = 0.000121863
+当前spread值为195
+当前网络的mse为0.00031797
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为200
+当前网络的mse为0.00031797
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为205
+当前网络的mse为0.00031796
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为210
+NEWRB, neurons = 200, MSE = 0.00011495
+当前网络的mse为0.00031795
+NEWRB, neurons = 0, MSE = 0.0015047
+NEWRB, neurons = 300, MSE = 0.000126042
+当前spread值为215
+当前网络的mse为0.00031795
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为220
+当前网络的mse为0.00031794
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为225
+当前网络的mse为0.00031794
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为230
+当前网络的mse为0.00031793
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为235
+当前网络的mse为0.00031793
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为240
+当前网络的mse为0.00031792
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为245
+当前网络的mse为0.00031792
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为250
+NEWRB, neurons = 300, MSE = 0.000106702
+NEWRB, neurons = 400, MSE = 0.000106177
+当前网络的mse为0.00031792
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为255
+当前网络的mse为0.00031791
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为260
+当前网络的mse为0.00031791
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为265
+当前网络的mse为0.00031791
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为270
+NEWRB, neurons = 400, MSE = 0.000115757
+当前网络的mse为0.0003179
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为275
+当前网络的mse为0.0003179
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为280
+当前网络的mse为0.0003179
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为200
+当前spread值为285
+当前网络的mse为0.00032667
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.0003179
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为290
+当前网络的mse为0.00031789
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为295
+当前网络的mse为0.00031789
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为300
+当前网络的mse为0.00031789
+NEWRB, neurons = 0, MSE = 0.0015047
+NEWRB, neurons = 100, MSE = 0.000175717
+当前spread值为395
+当前spread值为305
+当前网络的mse为0.24618
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为0.00031789
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为310
+当前网络的mse为0.00031789
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为315
+当前网络的mse为0.00031788
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为320
+当前网络的mse为0.00031788
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为325
+NEWRB, neurons = 100, MSE = 0.000150202
+当前网络的mse为0.00031788
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为330
+NEWRB, neurons = 200, MSE = 0.00012385
+当前网络的mse为0.00031788
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为335
+当前网络的mse为0.00031788
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为340
+当前网络的mse为0.00031788
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为345
+NEWRB, neurons = 500, MSE = 0.00010288
+当前网络的mse为0.00031787
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为200
+当前网络的mse为0.00092235
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为350
+当前网络的mse为0.00031787
+NEWRB, neurons = 0, MSE = 0.0015047
+NEWRB, neurons = 200, MSE = 0.000135078
+当前spread值为355
+当前网络的mse为0.00031787
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为360
+当前网络的mse为0.00031787
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为365
+NEWRB, neurons = 100, MSE = 0.000142205
+当前网络的mse为0.00031787
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为370
+当前网络的mse为0.00031787
+NEWRB, neurons = 0, MSE = 0.0015047
+NEWRB, neurons = 300, MSE = 0.000116956
+当前spread值为375
+当前网络的mse为0.00031787
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为380
+当前网络的mse为0.00031787
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为385
+当前网络的mse为0.00031787
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为390
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+NEWRB, neurons = 200, MSE = 0.000133565
+当前spread值为395
+NEWRB, neurons = 300, MSE = 0.000114464
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为400
+当前spread值为400
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前网络的mse为0.052452
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为405
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为410
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为415
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为420
+NEWRB, neurons = 100, MSE = 0.000140692
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为425
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为430
+NEWRB, neurons = 400, MSE = 0.0001048
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为435
+NEWRB, neurons = 300, MSE = 0.000120891
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为440
+当前spread值为205
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为445
+当前网络的mse为0.00024986
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为450
+NEWRB, neurons = 200, MSE = 0.000108894
+当前网络的mse为0.00031786
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为455
+当前网络的mse为0.00031785
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为460
+当前网络的mse为0.00031785
+NEWRB, neurons = 0, MSE = 0.0015047
+NEWRB, neurons = 100, MSE = 0.000183424
+当前spread值为465
+当前网络的mse为0.00031785
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为470
+当前网络的mse为0.00031785
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为475
+当前网络的mse为0.00031785
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为480
+当前网络的mse为0.00031785
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为485
+当前网络的mse为0.00031785
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为490
+NEWRB, neurons = 300, MSE = 0.000105511
+当前网络的mse为0.00031785
+NEWRB, neurons = 0, MSE = 0.0015047
+NEWRB, neurons = 200, MSE = 0.000153759
+NEWRB, neurons = 400, MSE = 0.000113034
+当前spread值为495
+当前网络的mse为0.00031785
+NEWRB, neurons = 0, MSE = 0.0015047
+当前spread值为500
+当前网络的mse为0.00031785
+以下为第6次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为20
+当前网络的mse为7.574e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为25
+当前网络的mse为7.6005e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为405
+当前spread值为30
+当前网络的mse为0.0028345
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.6152e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为35
+当前网络的mse为7.6242e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为40
+当前网络的mse为7.6301e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为45
+当前网络的mse为7.6341e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为50
+NEWRB, neurons = 100, MSE = 0.000150625
+NEWRB, neurons = 300, MSE = 0.000136593
+当前网络的mse为7.637e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为55
+当前网络的mse为7.6391e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为60
+当前网络的mse为7.6408e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为65
+当前网络的mse为7.642e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为70
+当前网络的mse为7.6431e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为75
+NEWRB, neurons = 200, MSE = 0.000134773
+当前网络的mse为7.6439e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为80
+当前网络的mse为7.6445e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为85
+NEWRB, neurons = 500, MSE = 0.00011108
+当前网络的mse为7.6451e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为205
+当前网络的mse为0.0006428
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为90
+当前网络的mse为7.6456e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为95
+当前网络的mse为7.646e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为100
+当前网络的mse为7.6463e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为105
+NEWRB, neurons = 100, MSE = 0.000186356
+当前网络的mse为7.6466e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+NEWRB, neurons = 400, MSE = 0.00011694
+当前spread值为110
+当前网络的mse为7.6468e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为115
+当前网络的mse为7.6471e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为120
+NEWRB, neurons = 300, MSE = 0.00012476
+当前网络的mse为7.6473e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为125
+当前网络的mse为7.6474e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为130
+当前网络的mse为7.6476e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为135
+NEWRB, neurons = 200, MSE = 0.00013317
+当前网络的mse为7.6477e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为140
+当前网络的mse为7.6478e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为145
+当前网络的mse为7.6479e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为150
+当前网络的mse为7.648e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为155
+当前网络的mse为7.6481e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为160
+当前网络的mse为7.6482e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为165
+当前网络的mse为7.6483e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为170
+当前网络的mse为7.6483e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为175
+当前网络的mse为7.6484e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+NEWRB, neurons = 300, MSE = 0.000125603
+当前spread值为180
+NEWRB, neurons = 400, MSE = 0.000119216
+当前网络的mse为7.6485e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为185
+NEWRB, neurons = 500, MSE = 0.0001017
+当前网络的mse为7.6485e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为210
+当前网络的mse为0.00022041
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为190
+当前网络的mse为7.6486e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为195
+当前网络的mse为7.6486e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为200
+当前网络的mse为7.6486e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为205
+NEWRB, neurons = 100, MSE = 0.000238226
+当前网络的mse为7.6487e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为210
+当前网络的mse为7.6487e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为215
+当前网络的mse为7.6487e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为220
+当前网络的mse为7.6488e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为225
+当前网络的mse为7.6488e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为230
+当前网络的mse为7.6488e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为235
+NEWRB, neurons = 200, MSE = 0.000152513
+NEWRB, neurons = 400, MSE = 0.000115776
+当前网络的mse为7.6489e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为240
+当前网络的mse为7.6489e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为245
+当前网络的mse为7.6489e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为250
+当前网络的mse为7.6489e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为255
+当前网络的mse为7.6489e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+NEWRB, neurons = 500, MSE = 0.000115323
+当前spread值为260
+当前spread值为410
+当前网络的mse为0.042549
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.649e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为265
+当前网络的mse为7.649e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为270
+当前网络的mse为7.649e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为275
+当前网络的mse为7.649e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+NEWRB, neurons = 100, MSE = 0.000153009
+NEWRB, neurons = 300, MSE = 0.000133404
+当前spread值为280
+当前网络的mse为7.649e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为285
+当前网络的mse为7.649e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为290
+当前网络的mse为7.649e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为295
+当前网络的mse为7.6491e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为300
+当前网络的mse为7.6491e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为305
+当前网络的mse为7.6491e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+NEWRB, neurons = 200, MSE = 0.000135075
+当前spread值为310
+当前网络的mse为7.6491e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+NEWRB, neurons = 500, MSE = 0.000117555
+当前spread值为315
+当前spread值为210
+当前网络的mse为0.00095967
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为7.6491e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为320
+当前网络的mse为7.6491e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为325
+当前网络的mse为7.6491e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为330
+当前网络的mse为7.6491e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+NEWRB, neurons = 100, MSE = 0.000157767
+当前spread值为335
+NEWRB, neurons = 400, MSE = 0.000122382
+当前网络的mse为7.6491e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为340
+当前网络的mse为7.6491e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为345
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为350
+NEWRB, neurons = 300, MSE = 0.000121231
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为355
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为360
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+NEWRB, neurons = 200, MSE = 0.000149913
+当前spread值为365
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为370
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为375
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为380
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为385
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为390
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为395
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为400
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为405
+NEWRB, neurons = 300, MSE = 0.000123264
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为410
+NEWRB, neurons = 400, MSE = 0.000106902
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+NEWRB, neurons = 500, MSE = 0.00011584
+当前spread值为415
+当前spread值为215
+当前网络的mse为0.00040673
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为420
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为425
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为430
+当前网络的mse为7.6492e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为435
+NEWRB, neurons = 100, MSE = 0.000181293
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为440
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为445
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为450
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为455
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为460
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+NEWRB, neurons = 200, MSE = 0.000136318
+当前spread值为465
+NEWRB, neurons = 400, MSE = 0.000119659
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为470
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为475
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为480
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为485
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为490
+NEWRB, neurons = 500, MSE = 0.000108778
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为415
+当前网络的mse为0.00052616
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为495
+当前网络的mse为7.6493e-05
+NEWRB, neurons = 0, MSE = 0.00165064
+当前spread值为500
+当前网络的mse为7.6493e-05
+以下为第7次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为20
+NEWRB, neurons = 300, MSE = 0.000127533
+当前网络的mse为7.2591e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为25
+NEWRB, neurons = 100, MSE = 0.000147673
+当前网络的mse为7.7392e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为30
+当前网络的mse为7.7365e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为35
+当前网络的mse为7.7349e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为40
+当前网络的mse为7.7339e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为45
+当前网络的mse为7.7331e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为50
+当前网络的mse为7.7326e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为55
+NEWRB, neurons = 200, MSE = 0.000117317
+当前网络的mse为7.7322e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+NEWRB, neurons = 500, MSE = 0.000108436
+当前spread值为60
+当前spread值为215
+当前网络的mse为0.0006639
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为7.732e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为65
+当前网络的mse为7.7317e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为70
+当前网络的mse为7.7316e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为75
+当前网络的mse为7.7314e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为80
+NEWRB, neurons = 100, MSE = 0.000201767
+当前网络的mse为7.7313e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+NEWRB, neurons = 400, MSE = 0.00011982
+当前spread值为85
+当前网络的mse为7.7312e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为90
+当前网络的mse为7.7311e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为95
+当前网络的mse为7.731e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为100
+NEWRB, neurons = 300, MSE = 0.000124099
+当前网络的mse为7.731e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为105
+当前网络的mse为7.7309e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为110
+NEWRB, neurons = 200, MSE = 0.000145774
+当前网络的mse为7.7309e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为115
+当前网络的mse为7.7309e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为120
+当前网络的mse为7.7308e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为125
+当前网络的mse为7.7308e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为130
+当前网络的mse为7.7308e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为135
+当前网络的mse为7.7307e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为140
+当前网络的mse为7.7307e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为145
+当前网络的mse为7.7307e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为150
+当前网络的mse为7.7307e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为155
+NEWRB, neurons = 300, MSE = 0.000143238
+当前网络的mse为7.7307e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为160
+NEWRB, neurons = 400, MSE = 0.000114363
+NEWRB, neurons = 500, MSE = 0.00011321
+当前网络的mse为7.7307e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为165
+当前spread值为220
+当前网络的mse为0.00037246
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为170
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为175
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为180
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+NEWRB, neurons = 100, MSE = 0.00017362
+当前spread值为185
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为190
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为195
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为200
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为205
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为210
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为215
+NEWRB, neurons = 200, MSE = 0.000156037
+NEWRB, neurons = 400, MSE = 0.000123816
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为220
+当前网络的mse为7.7306e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为225
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为230
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为235
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为240
+NEWRB, neurons = 500, MSE = 0.000114306
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为245
+当前spread值为420
+当前网络的mse为0.019355
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为250
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为255
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为260
+NEWRB, neurons = 300, MSE = 0.000136341
+NEWRB, neurons = 100, MSE = 0.000147791
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为265
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为270
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为275
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为280
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为285
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为290
+NEWRB, neurons = 200, MSE = 0.00013272
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+NEWRB, neurons = 500, MSE = 0.000113782
+当前spread值为295
+当前spread值为220
+当前网络的mse为0.0010489
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为300
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为305
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为310
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+NEWRB, neurons = 100, MSE = 0.000207069
+当前spread值为315
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+NEWRB, neurons = 400, MSE = 0.000130015
+当前spread值为320
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为325
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为330
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为335
+NEWRB, neurons = 300, MSE = 0.000118325
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为340
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为345
+NEWRB, neurons = 200, MSE = 0.000176141
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为350
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为355
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为360
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为365
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为370
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为375
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为380
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为385
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为390
+NEWRB, neurons = 300, MSE = 0.000151552
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为395
+NEWRB, neurons = 500, MSE = 0.000118298
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+NEWRB, neurons = 400, MSE = 0.00011456
+当前spread值为400
+当前spread值为225
+当前网络的mse为0.00043633
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为405
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为410
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为415
+NEWRB, neurons = 100, MSE = 0.000166908
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为420
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为425
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为430
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为435
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为440
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为445
+NEWRB, neurons = 200, MSE = 0.000149607
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为450
+NEWRB, neurons = 400, MSE = 0.000140913
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为455
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为460
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为465
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为470
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为475
+NEWRB, neurons = 500, MSE = 0.000111508
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为480
+当前spread值为425
+当前网络的mse为0.025609
+NEWRB, neurons = 0, MSE = 0.004605
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为485
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为490
+NEWRB, neurons = 300, MSE = 0.000164275
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+当前spread值为495
+当前网络的mse为7.7305e-05
+NEWRB, neurons = 0, MSE = 0.00171626
+NEWRB, neurons = 100, MSE = 0.000140422
+当前spread值为500
+<a href="matlab: opentoline('C:\Program Files\MATLAB\R2019b\toolbox\parallel\distcomp\+distcomp\remoteparfor.m',375,1)">375 </a>                    obj.displayOutput();
+if system_dependent('IsDebugMode')==1, dbcont; end
+当前网络的mse为7.7305e-05
+以下为第8次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为20
+当前网络的mse为7.357e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为25
+当前网络的mse为7.3576e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为30
+当前网络的mse为7.3579e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为35
+当前网络的mse为7.3581e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为40
+当前网络的mse为7.3583e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为45
+当前网络的mse为7.3584e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为50
+当前网络的mse为7.3584e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为55
+当前网络的mse为9.0723e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为60
+当前网络的mse为9.0737e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为65
+当前网络的mse为9.0749e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为70
+当前网络的mse为9.0757e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为75
+当前网络的mse为9.0765e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为80
+当前网络的mse为9.0771e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为85
+当前网络的mse为9.0775e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为90
+当前网络的mse为9.078e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为95
+当前网络的mse为9.0783e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为100
+当前网络的mse为9.0786e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为105
+当前网络的mse为9.0789e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为110
+当前网络的mse为9.0791e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为115
+当前网络的mse为9.0793e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为120
+当前网络的mse为9.0794e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为125
+当前网络的mse为9.0796e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为130
+当前网络的mse为9.0797e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为135
+当前网络的mse为9.0798e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为140
+当前网络的mse为9.0799e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为145
+当前网络的mse为9.08e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为150
+当前网络的mse为9.0801e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为155
+当前网络的mse为9.0802e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为160
+当前网络的mse为9.0803e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为165
+当前网络的mse为9.0803e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为170
+当前网络的mse为9.0804e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为175
+当前网络的mse为9.0805e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为180
+当前网络的mse为9.0805e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为185
+当前网络的mse为9.0805e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为190
+当前网络的mse为9.0806e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为195
+当前网络的mse为9.0806e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为200
+当前网络的mse为9.0807e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为205
+当前网络的mse为9.0807e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为210
+当前网络的mse为9.0807e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为215
+当前网络的mse为9.0808e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为220
+当前网络的mse为9.0808e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为225
+当前网络的mse为9.0808e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为230
+当前网络的mse为9.0808e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为235
+当前网络的mse为9.0809e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为240
+当前网络的mse为9.0809e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为245
+当前网络的mse为9.0809e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为250
+当前网络的mse为9.0809e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为255
+当前网络的mse为9.0809e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为260
+当前网络的mse为9.0809e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为265
+当前网络的mse为9.081e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为270
+当前网络的mse为9.081e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为275
+当前网络的mse为9.081e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为280
+当前网络的mse为9.081e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为285
+当前网络的mse为9.081e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为290
+当前网络的mse为9.081e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为295
+当前网络的mse为9.081e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为300
+当前网络的mse为9.081e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为305
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为310
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为315
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为320
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为325
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为330
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为335
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为340
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为345
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为350
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为355
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为360
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为365
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为370
+当前网络的mse为9.0811e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为375
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为380
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为385
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为390
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为395
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为400
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为405
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为410
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为415
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为420
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为425
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为430
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为435
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为440
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为445
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为450
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为455
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为460
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为465
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为470
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为475
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为480
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为485
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为490
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为495
+当前网络的mse为9.0812e-05
+NEWRB, neurons = 0, MSE = 0.00169675
+当前spread值为500
+当前网络的mse为9.0812e-05
+以下为第9次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为20
+当前网络的mse为8.1301e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为25
+当前网络的mse为0.00011721
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为30
+当前网络的mse为0.0001172
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为35
+当前网络的mse为0.00011719
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为40
+当前网络的mse为9.5565e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为45
+当前网络的mse为9.5552e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为50
+当前网络的mse为9.5543e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为55
+当前网络的mse为9.5536e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为60
+当前网络的mse为9.5531e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为65
+当前网络的mse为9.5527e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为70
+当前网络的mse为9.5524e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为75
+当前网络的mse为9.5522e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为80
+当前网络的mse为9.5519e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为85
+当前网络的mse为9.5518e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为90
+当前网络的mse为9.5516e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为95
+当前网络的mse为9.5515e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为100
+当前网络的mse为9.5514e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为105
+当前网络的mse为9.5513e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为110
+当前网络的mse为9.5512e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为115
+当前网络的mse为9.5512e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为120
+当前网络的mse为9.5511e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为125
+当前网络的mse为9.5511e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为130
+当前网络的mse为9.551e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为135
+当前网络的mse为9.551e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为140
+当前网络的mse为9.5509e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为145
+当前网络的mse为9.5509e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为150
+当前网络的mse为9.5509e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为155
+当前网络的mse为9.5509e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为160
+当前网络的mse为9.5508e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为165
+当前网络的mse为9.5508e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为170
+当前网络的mse为9.5508e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为175
+当前网络的mse为9.5508e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为180
+当前网络的mse为9.5508e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为185
+当前网络的mse为9.5507e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为190
+当前网络的mse为9.5507e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为195
+当前网络的mse为9.5507e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为200
+当前网络的mse为9.5507e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为205
+当前网络的mse为9.5507e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为210
+当前网络的mse为9.5507e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为215
+当前网络的mse为9.5507e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为220
+当前网络的mse为9.5507e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为225
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为230
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为235
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为240
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为245
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为250
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为255
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为260
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为265
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为270
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为275
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为280
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为285
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为290
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为295
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为300
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为305
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为310
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为315
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为320
+当前网络的mse为9.5506e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为325
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为330
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为335
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为340
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为345
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为350
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为355
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为360
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为365
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为370
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为375
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为380
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为385
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为390
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为395
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为400
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为405
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为410
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为415
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为420
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为425
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为430
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为435
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为440
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为445
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为450
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为455
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为460
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为465
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为470
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为475
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为480
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为485
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为490
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为495
+当前网络的mse为9.5505e-05
+NEWRB, neurons = 0, MSE = 0.00168337
+当前spread值为500
+当前网络的mse为9.5505e-05
+以下为第10次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为20
+当前网络的mse为9.4757e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为25
+当前网络的mse为9.1427e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为30
+当前网络的mse为9.1429e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为35
+当前网络的mse为0.00010363
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为40
+当前网络的mse为0.00010361
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为45
+当前网络的mse为0.00010359
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为50
+当前网络的mse为9.8135e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为55
+当前网络的mse为9.8129e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为60
+当前网络的mse为9.8125e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为65
+当前网络的mse为9.8122e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为70
+当前网络的mse为9.812e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为75
+当前网络的mse为9.8118e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为80
+当前网络的mse为9.8116e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为85
+当前网络的mse为9.8115e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为90
+当前网络的mse为9.8114e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为95
+当前网络的mse为9.8113e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为100
+当前网络的mse为9.8112e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为105
+当前网络的mse为9.8111e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为110
+当前网络的mse为9.8111e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为115
+当前网络的mse为9.811e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为120
+当前网络的mse为9.811e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为125
+当前网络的mse为9.8109e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为130
+当前网络的mse为9.8109e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为135
+当前网络的mse为9.8109e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为140
+当前网络的mse为9.8108e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为145
+当前网络的mse为9.8108e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为150
+当前网络的mse为9.8108e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为155
+当前网络的mse为9.8108e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为160
+当前网络的mse为9.8107e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为165
+当前网络的mse为9.8107e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为170
+当前网络的mse为9.8107e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为175
+当前网络的mse为9.8107e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为180
+当前网络的mse为9.8107e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为185
+当前网络的mse为9.8107e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为190
+当前网络的mse为9.8107e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为195
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为200
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为205
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为210
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为215
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为220
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为225
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为230
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为235
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为240
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为245
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为250
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为255
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为260
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为265
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为270
+当前网络的mse为9.8106e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为275
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为280
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为285
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为290
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为295
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为300
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为305
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为310
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为315
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为320
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为325
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为330
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为335
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为340
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为345
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为350
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为355
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为360
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为365
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为370
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为375
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为380
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为385
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为390
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为395
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为400
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为405
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为410
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为415
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为420
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为425
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为430
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为435
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为440
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为445
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为450
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为455
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为460
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为465
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为470
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为475
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为480
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为485
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为490
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为495
+当前网络的mse为9.8105e-05
+NEWRB, neurons = 0, MSE = 0.00168521
+当前spread值为500
+当前网络的mse为9.8105e-05
+最佳spread值为35
+最佳a值为4
+NEWRB, neurons = 0, MSE = 0.00169605
+rbf的运行时间为?
+DataSet is: C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode\atoms2\n4\n4_75_80.mat
+以下为第1次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为20
+当前网络的mse为0.0020736
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为25
+当前网络的mse为0.0042606
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为30
+当前网络的mse为0.0020315
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为35
+当前网络的mse为0.0085814
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为40
+当前网络的mse为0.012552
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为45
+当前网络的mse为0.020565
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为50
+当前网络的mse为0.0046006
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为55
+当前网络的mse为0.038564
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为60
+当前网络的mse为0.024093
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为65
+当前网络的mse为0.041599
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为70
+当前网络的mse为0.056412
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为75
+当前网络的mse为0.03754
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为80
+当前网络的mse为0.00053831
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为85
+当前网络的mse为0.038831
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为90
+当前网络的mse为0.0054194
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为95
+当前网络的mse为0.0016601
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为100
+当前网络的mse为0.10293
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为105
+当前网络的mse为0.092101
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为110
+当前网络的mse为0.15516
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为115
+当前网络的mse为0.047643
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为120
+当前网络的mse为0.046986
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为125
+当前网络的mse为0.12003
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为130
+当前网络的mse为0.088347
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为135
+当前网络的mse为0.10668
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为140
+当前网络的mse为0.13853
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为145
+当前网络的mse为0.074171
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为150
+当前网络的mse为0.045937
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为155
+当前网络的mse为0.054103
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为160
+当前网络的mse为0.12199
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为165
+当前网络的mse为0.10728
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为170
+当前网络的mse为0.081448
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为175
+当前网络的mse为0.081201
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为180
+当前网络的mse为0.1033
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为185
+当前网络的mse为0.14678
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为190
+当前网络的mse为0.27956
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为195
+当前网络的mse为0.1595
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为200
+当前网络的mse为0.095885
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为205
+当前网络的mse为0.099021
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为210
+当前网络的mse为0.012899
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为215
+当前网络的mse为0.02124
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为220
+当前网络的mse为0.057403
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为225
+当前网络的mse为0.12709
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为230
+当前网络的mse为0.080368
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为235
+当前网络的mse为0.055044
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为240
+当前网络的mse为0.22854
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为245
+当前网络的mse为0.042917
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为250
+当前网络的mse为0.04916
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为255
+当前网络的mse为0.046716
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为260
+当前网络的mse为0.04424
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为265
+当前网络的mse为0.12526
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为270
+当前网络的mse为0.12713
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为275
+当前网络的mse为0.1289
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为280
+当前网络的mse为0.13059
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为285
+当前网络的mse为0.13221
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为290
+当前网络的mse为0.062087
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为295
+当前网络的mse为0.011028
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为300
+当前网络的mse为0.0094334
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为305
+当前网络的mse为0.27544
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为310
+当前网络的mse为0.8739
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为315
+当前网络的mse为0.82107
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为320
+当前网络的mse为0.064623
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为325
+当前网络的mse为0.0028257
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为330
+当前网络的mse为0.45685
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为335
+当前网络的mse为0.23753
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为340
+当前网络的mse为0.54318
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为345
+当前网络的mse为0.15664
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为350
+当前网络的mse为0.26435
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为355
+当前网络的mse为0.036857
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为360
+当前网络的mse为0.17812
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为365
+当前网络的mse为0.42791
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为370
+当前网络的mse为0.22736
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为375
+当前网络的mse为0.18939
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为380
+当前网络的mse为0.009969
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为385
+当前网络的mse为0.12749
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为390
+当前网络的mse为0.37314
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为395
+当前网络的mse为0.24863
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为400
+当前网络的mse为0.13337
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 100, MSE = 0.000106972
+当前spread值为405
+当前网络的mse为0.033009
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为410
+当前网络的mse为0.36569
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 100, MSE = 0.000107946
+当前spread值为415
+当前网络的mse为0.28616
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 100, MSE = 0.000105548
+当前spread值为420
+当前网络的mse为0.354
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为425
+当前网络的mse为0.17528
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 100, MSE = 0.000107444
+当前spread值为430
+当前网络的mse为0.2549
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 100, MSE = 0.000105943
+当前spread值为435
+当前网络的mse为0.16584
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 100, MSE = 0.000110912
+当前spread值为440
+当前网络的mse为0.76502
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为445
+当前网络的mse为0.20202
+NEWRB, neurons = 0, MSE = 0.00286551
+当前spread值为450
+当前网络的mse为0.66474
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 100, MSE = 0.000115246
+当前spread值为455
+当前网络的mse为0.38418
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 200, MSE = 0.000121135
+NEWRB, neurons = 300, MSE = 0.000114422
+NEWRB, neurons = 400, MSE = 0.000110396
+NEWRB, neurons = 500, MSE = 0.000118731
+当前spread值为430
+当前网络的mse为0.0069159
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000149564
+NEWRB, neurons = 200, MSE = 0.000130396
+NEWRB, neurons = 300, MSE = 0.000126065
+NEWRB, neurons = 400, MSE = 0.000113492
+NEWRB, neurons = 500, MSE = 0.000107205
+当前spread值为435
+当前网络的mse为0.02837
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000147972
+NEWRB, neurons = 200, MSE = 0.000131141
+NEWRB, neurons = 300, MSE = 0.000116399
+NEWRB, neurons = 400, MSE = 0.000121048
+NEWRB, neurons = 500, MSE = 0.000111931
+当前spread值为440
+当前网络的mse为0.13515
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000145687
+NEWRB, neurons = 200, MSE = 0.000134001
+NEWRB, neurons = 300, MSE = 0.000125449
+NEWRB, neurons = 400, MSE = 0.000117772
+NEWRB, neurons = 500, MSE = 0.000119717
+当前spread值为445
+当前网络的mse为0.05238
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000159916
+NEWRB, neurons = 200, MSE = 0.000134927
+NEWRB, neurons = 300, MSE = 0.000116312
+NEWRB, neurons = 400, MSE = 0.000125344
+NEWRB, neurons = 500, MSE = 0.00012035
+当前spread值为450
+当前网络的mse为0.021253
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000143081
+NEWRB, neurons = 200, MSE = 0.000127893
+NEWRB, neurons = 300, MSE = 0.000128613
+NEWRB, neurons = 400, MSE = 0.000116509
+NEWRB, neurons = 500, MSE = 0.000121777
+当前spread值为455
+当前网络的mse为0.076371
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000154884
+NEWRB, neurons = 200, MSE = 0.000132943
+NEWRB, neurons = 300, MSE = 0.000132581
+NEWRB, neurons = 400, MSE = 0.000123476
+NEWRB, neurons = 500, MSE = 0.000116167
+当前spread值为460
+当前网络的mse为0.15695
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000141175
+NEWRB, neurons = 200, MSE = 0.000129108
+NEWRB, neurons = 300, MSE = 0.000126462
+NEWRB, neurons = 400, MSE = 0.0001133
+NEWRB, neurons = 500, MSE = 0.000105696
+当前spread值为465
+当前网络的mse为0.10578
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000143229
+NEWRB, neurons = 200, MSE = 0.000130766
+NEWRB, neurons = 300, MSE = 0.000131632
+NEWRB, neurons = 400, MSE = 0.000127379
+NEWRB, neurons = 500, MSE = 0.000127669
+当前spread值为470
+当前网络的mse为0.0041472
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000153221
+NEWRB, neurons = 200, MSE = 0.000141344
+NEWRB, neurons = 300, MSE = 0.000128715
+NEWRB, neurons = 400, MSE = 0.000127159
+NEWRB, neurons = 500, MSE = 0.000112425
+当前spread值为475
+当前网络的mse为0.22072
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000147373
+NEWRB, neurons = 200, MSE = 0.000140783
+NEWRB, neurons = 300, MSE = 0.000139611
+NEWRB, neurons = 400, MSE = 0.00013886
+NEWRB, neurons = 500, MSE = 0.00012815
+当前spread值为480
+当前网络的mse为0.083501
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000154683
+NEWRB, neurons = 200, MSE = 0.000138358
+NEWRB, neurons = 300, MSE = 0.000115857
+NEWRB, neurons = 400, MSE = 0.00012307
+NEWRB, neurons = 500, MSE = 0.000120405
+当前spread值为485
+当前网络的mse为0.11324
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000149529
+NEWRB, neurons = 200, MSE = 0.00013885
+NEWRB, neurons = 300, MSE = 0.000123904
+NEWRB, neurons = 400, MSE = 0.000116742
+NEWRB, neurons = 400, MSE = 0.000127625
+NEWRB, neurons = 500, MSE = 0.000118003
+当前spread值为230
+当前网络的mse为0.00037692
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000200728
+NEWRB, neurons = 200, MSE = 0.000159505
+NEWRB, neurons = 300, MSE = 0.000122687
+NEWRB, neurons = 400, MSE = 0.00011999
+NEWRB, neurons = 500, MSE = 0.000118496
+当前spread值为235
+当前网络的mse为0.00029729
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000243392
+NEWRB, neurons = 200, MSE = 0.0002014
+NEWRB, neurons = 300, MSE = 0.000169995
+NEWRB, neurons = 400, MSE = 0.000142969
+NEWRB, neurons = 500, MSE = 0.000140445
+当前spread值为240
+当前网络的mse为0.00016651
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000260437
+NEWRB, neurons = 200, MSE = 0.000170639
+NEWRB, neurons = 300, MSE = 0.000147075
+NEWRB, neurons = 400, MSE = 0.000129871
+NEWRB, neurons = 500, MSE = 0.000127418
+当前spread值为245
+当前网络的mse为0.0003573
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000197528
+NEWRB, neurons = 200, MSE = 0.000164586
+NEWRB, neurons = 300, MSE = 0.00015006
+NEWRB, neurons = 400, MSE = 0.000132674
+NEWRB, neurons = 500, MSE = 0.000129654
+当前spread值为250
+当前网络的mse为0.00053462
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000196237
+NEWRB, neurons = 200, MSE = 0.000142139
+NEWRB, neurons = 300, MSE = 0.00012367
+NEWRB, neurons = 400, MSE = 0.000128345
+NEWRB, neurons = 500, MSE = 0.000123909
+当前spread值为255
+当前网络的mse为0.00024684
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000195203
+NEWRB, neurons = 200, MSE = 0.00016118
+NEWRB, neurons = 300, MSE = 0.000165174
+NEWRB, neurons = 400, MSE = 0.000153822
+NEWRB, neurons = 500, MSE = 0.000157526
+当前spread值为260
+当前网络的mse为0.00020078
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000216098
+NEWRB, neurons = 200, MSE = 0.000182974
+NEWRB, neurons = 300, MSE = 0.000164914
+NEWRB, neurons = 400, MSE = 0.000137962
+NEWRB, neurons = 500, MSE = 0.000141385
+当前spread值为265
+当前网络的mse为0.00025769
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000191934
+NEWRB, neurons = 200, MSE = 0.000200327
+NEWRB, neurons = 300, MSE = 0.00016144
+NEWRB, neurons = 400, MSE = 0.000141953
+NEWRB, neurons = 500, MSE = 0.000130458
+当前spread值为270
+当前网络的mse为0.00034715
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000234551
+NEWRB, neurons = 200, MSE = 0.000181529
+NEWRB, neurons = 300, MSE = 0.000150899
+NEWRB, neurons = 400, MSE = 0.000151015
+NEWRB, neurons = 500, MSE = 0.000163051
+当前spread值为275
+当前网络的mse为0.00038371
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000232231
+NEWRB, neurons = 200, MSE = 0.000210601
+NEWRB, neurons = 300, MSE = 0.000207338
+NEWRB, neurons = 400, MSE = 0.000174787
+NEWRB, neurons = 500, MSE = 0.00015546
+当前spread值为280
+当前网络的mse为0.00023821
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000212335
+NEWRB, neurons = 200, MSE = 0.000205916
+NEWRB, neurons = 300, MSE = 0.000189789
+NEWRB, neurons = 400, MSE = 0.000168569
+NEWRB, neurons = 500, MSE = 0.000156433
+当前spread值为285
+当前网络的mse为0.00045913
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000330759
+NEWRB, neurons = 200, MSE = 0.000238686
+NEWRB, neurons = 300, MSE = 0.0001837
+NEWRB, neurons = 400, MSE = 0.000166702
+NEWRB, neurons = 500, MSE = 0.000161204
+当前spread值为290
+当前网络的mse为0.00022849
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000252989
+NEWRB, neurons = 500, MSE = 0.000117791
+当前spread值为225
+当前网络的mse为0.00079834
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000185036
+NEWRB, neurons = 200, MSE = 0.000163473
+NEWRB, neurons = 300, MSE = 0.000148083
+NEWRB, neurons = 400, MSE = 0.000128808
+NEWRB, neurons = 500, MSE = 0.000129508
+当前spread值为230
+当前网络的mse为0.0015219
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000209561
+NEWRB, neurons = 200, MSE = 0.000190255
+NEWRB, neurons = 300, MSE = 0.000162549
+NEWRB, neurons = 400, MSE = 0.000148799
+NEWRB, neurons = 500, MSE = 0.000131813
+当前spread值为235
+当前网络的mse为0.00064936
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000205848
+NEWRB, neurons = 200, MSE = 0.000170623
+NEWRB, neurons = 300, MSE = 0.00014959
+NEWRB, neurons = 400, MSE = 0.000133965
+NEWRB, neurons = 500, MSE = 0.00012815
+当前spread值为240
+当前网络的mse为0.00098148
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000220061
+NEWRB, neurons = 200, MSE = 0.000171906
+NEWRB, neurons = 300, MSE = 0.000153615
+NEWRB, neurons = 400, MSE = 0.000143244
+NEWRB, neurons = 500, MSE = 0.000141937
+当前spread值为245
+当前网络的mse为0.00095888
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000192186
+NEWRB, neurons = 200, MSE = 0.000167512
+NEWRB, neurons = 300, MSE = 0.000144888
+NEWRB, neurons = 400, MSE = 0.000151561
+NEWRB, neurons = 500, MSE = 0.000140948
+当前spread值为250
+当前网络的mse为0.00092398
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000243729
+NEWRB, neurons = 200, MSE = 0.00017429
+NEWRB, neurons = 300, MSE = 0.000145972
+NEWRB, neurons = 400, MSE = 0.000146951
+NEWRB, neurons = 500, MSE = 0.000140941
+当前spread值为255
+当前网络的mse为0.00071327
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.00025711
+NEWRB, neurons = 200, MSE = 0.000196669
+NEWRB, neurons = 300, MSE = 0.000171775
+NEWRB, neurons = 400, MSE = 0.000170234
+NEWRB, neurons = 500, MSE = 0.000163279
+当前spread值为260
+当前网络的mse为0.00076238
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000242845
+NEWRB, neurons = 200, MSE = 0.000192409
+NEWRB, neurons = 300, MSE = 0.00016704
+NEWRB, neurons = 400, MSE = 0.000161184
+NEWRB, neurons = 500, MSE = 0.000166044
+当前spread值为265
+当前网络的mse为0.00083011
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000234871
+NEWRB, neurons = 200, MSE = 0.000215876
+NEWRB, neurons = 300, MSE = 0.000169201
+NEWRB, neurons = 400, MSE = 0.000166047
+NEWRB, neurons = 500, MSE = 0.000170084
+当前spread值为270
+当前网络的mse为0.0011247
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000233593
+NEWRB, neurons = 200, MSE = 0.000202547
+NEWRB, neurons = 300, MSE = 0.000172118
+NEWRB, neurons = 400, MSE = 0.000159616
+NEWRB, neurons = 500, MSE = 0.000155966
+当前spread值为275
+当前网络的mse为0.00081906
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.00025699
+NEWRB, neurons = 200, MSE = 0.000207037
+NEWRB, neurons = 300, MSE = 0.000185719
+NEWRB, neurons = 400, MSE = 0.000159174
+NEWRB, neurons = 500, MSE = 0.000147175
+当前spread值为280
+当前网络的mse为0.00094994
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.00024823
+NEWRB, neurons = 200, MSE = 0.000207505
+NEWRB, neurons = 300, MSE = 0.000186564
+NEWRB, neurons = 400, MSE = 0.000176683
+NEWRB, neurons = 500, MSE = 0.000161316
+当前spread值为285
+当前网络的mse为0.0011906
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000269246
+NEWRB, neurons = 200, MSE = 0.000196906
+NEWRB, neurons = 300, MSE = 0.000190635
+NEWRB, neurons = 100, MSE = 0.000113195
+当前spread值为460
+当前网络的mse为0.16102
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 200, MSE = 0.000253246
+NEWRB, neurons = 400, MSE = 0.000173079
+NEWRB, neurons = 100, MSE = 0.00011086
+当前spread值为465
+当前网络的mse为0.03302
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 500, MSE = 0.000119496
+NEWRB, neurons = 300, MSE = 0.000202199
+当前spread值为490
+当前网络的mse为0.12375
+NEWRB, neurons = 0, MSE = 0.004605
+NEWRB, neurons = 100, MSE = 0.000117958
+NEWRB, neurons = 100, MSE = 0.000150592
+NEWRB, neurons = 500, MSE = 0.000172085
+当前spread值为290
+当前网络的mse为0.00063392
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 200, MSE = 0.000113984
+NEWRB, neurons = 200, MSE = 0.000143274
+NEWRB, neurons = 100, MSE = 0.000235782
+当前spread值为470
+当前网络的mse为0.42054
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 400, MSE = 0.000179245
+NEWRB, neurons = 100, MSE = 0.000120503
+NEWRB, neurons = 200, MSE = 0.000195906
+NEWRB, neurons = 300, MSE = 0.000113052
+NEWRB, neurons = 200, MSE = 0.000101334
+当前spread值为475
+当前网络的mse为0.13417
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 300, MSE = 0.000184115
+NEWRB, neurons = 100, MSE = 0.00011286
+NEWRB, neurons = 500, MSE = 0.000175717
+当前spread值为295
+当前网络的mse为0.00033523
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 400, MSE = 0.000116728
+NEWRB, neurons = 100, MSE = 0.000284138
+当前spread值为480
+当前网络的mse为0.074819
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 100, MSE = 0.000104431
+当前spread值为485
+当前网络的mse为0.15909
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 200, MSE = 0.000225175
+NEWRB, neurons = 400, MSE = 0.000156736
+NEWRB, neurons = 100, MSE = 0.000116418
+NEWRB, neurons = 200, MSE = 0.000101938
+NEWRB, neurons = 500, MSE = 0.000114882
+NEWRB, neurons = 300, MSE = 0.000174161
+当前spread值为495
+当前网络的mse为0.016079
+NEWRB, neurons = 0, MSE = 0.004605
+当前spread值为490
+当前网络的mse为0.26027
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 100, MSE = 0.000154675
+NEWRB, neurons = 100, MSE = 0.00011815
+NEWRB, neurons = 500, MSE = 0.000147786
+当前spread值为295
+当前网络的mse为0.00070045
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 200, MSE = 0.000145661
+NEWRB, neurons = 100, MSE = 0.000257778
+NEWRB, neurons = 200, MSE = 0.00011015
+NEWRB, neurons = 400, MSE = 0.000168267
+当前spread值为495
+当前网络的mse为0.50965
+NEWRB, neurons = 0, MSE = 0.00286551
+NEWRB, neurons = 200, MSE = 0.00021784
+NEWRB, neurons = 300, MSE = 0.000143353
+NEWRB, neurons = 100, MSE = 0.000118298
+NEWRB, neurons = 200, MSE = 0.000107292
+NEWRB, neurons = 300, MSE = 0.000193098
+NEWRB, neurons = 500, MSE = 0.000159443
+当前spread值为300
+当前网络的mse为0.00020548
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 400, MSE = 0.000148985
+NEWRB, neurons = 100, MSE = 0.00034062
+NEWRB, neurons = 300, MSE = 0.000108499
+NEWRB, neurons = 400, MSE = 0.000181386
+NEWRB, neurons = 200, MSE = 0.00024656
+NEWRB, neurons = 400, MSE = 0.000110509
+NEWRB, neurons = 300, MSE = 0.000208368
+NEWRB, neurons = 500, MSE = 0.000141771
+当前spread值为500
+当前网络的mse为0.04203
+以下为第2次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为20
+当前网络的mse为0.00024912
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为25
+NEWRB, neurons = 500, MSE = 0.000166717
+当前网络的mse为0.00022726
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为300
+当前网络的mse为0.00099139
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为30
+当前网络的mse为0.00027274
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000235061
+NEWRB, neurons = 400, MSE = 0.000178334
+当前spread值为35
+当前网络的mse为0.00022433
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 500, MSE = 0.000110889
+当前spread值为500
+当前网络的mse为0.11196
+以下为第2次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为40
+NEWRB, neurons = 200, MSE = 0.000210281
+当前网络的mse为0.00028892
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为20
+当前网络的mse为0.00094489
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为25
+当前spread值为45
+当前网络的mse为0.00099185
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00024123
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为30
+当前网络的mse为0.00093498
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为50
+当前spread值为35
+当前网络的mse为0.00023374
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.00096824
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 300, MSE = 0.000183078
+当前spread值为40
+当前网络的mse为0.00096922
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为55
+NEWRB, neurons = 500, MSE = 0.00019256
+当前网络的mse为0.00024255
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为305
+当前网络的mse为0.00024531
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为45
+当前网络的mse为0.00094702
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为50
+当前spread值为60
+当前网络的mse为0.00097297
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 100, MSE = 0.000319263
+当前网络的mse为0.00031218
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为55
+当前网络的mse为0.0011163
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为65
+当前网络的mse为0.00019218
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为60
+当前网络的mse为0.0011064
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为65
+NEWRB, neurons = 400, MSE = 0.000196866
+NEWRB, neurons = 200, MSE = 0.000226319
+当前spread值为70
+当前网络的mse为0.0011215
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00023029
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为70
+当前网络的mse为0.0010266
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为75
+当前spread值为75
+当前网络的mse为0.00019842
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.0010252
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为80
+当前网络的mse为0.0010388
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为80
+当前网络的mse为0.00021037
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 300, MSE = 0.000229522
+当前spread值为85
+当前网络的mse为0.0010489
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为85
+当前spread值为90
+当前网络的mse为0.0001924
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.0010169
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为95
+当前网络的mse为0.0010696
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为90
+NEWRB, neurons = 500, MSE = 0.00017809
+当前spread值为100
+当前网络的mse为0.00018983
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为305
+当前网络的mse为0.00077133
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为0.0010811
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为105
+当前spread值为95
+当前网络的mse为0.0010916
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00021637
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000243881
+当前spread值为110
+NEWRB, neurons = 400, MSE = 0.000208575
+当前网络的mse为0.0010846
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为100
+当前spread值为115
+当前网络的mse为0.00019452
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.0010924
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为120
+NEWRB, neurons = 200, MSE = 0.000215469
+当前网络的mse为0.0010446
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为105
+当前网络的mse为0.00020462
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为125
+当前网络的mse为0.0010209
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为110
+当前spread值为130
+当前网络的mse为0.00020133
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.0010256
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为135
+当前网络的mse为0.001041
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为115
+当前网络的mse为0.00020261
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 300, MSE = 0.000196617
+当前spread值为140
+当前网络的mse为0.0010348
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 500, MSE = 0.000187803
+当前spread值为120
+当前spread值为310
+当前网络的mse为0.0002806
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为145
+当前网络的mse为0.00024162
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.00099557
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为150
+NEWRB, neurons = 100, MSE = 0.000310433
+当前spread值为125
+当前网络的mse为0.00099925
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.0002412
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为155
+当前网络的mse为0.0010264
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为130
+当前spread值为160
+当前网络的mse为0.00021655
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.0010266
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 200, MSE = 0.000231884
+NEWRB, neurons = 400, MSE = 0.000175527
+当前spread值为165
+当前spread值为135
+当前网络的mse为0.0010268
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00022667
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为170
+当前网络的mse为0.0010269
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为140
+当前网络的mse为0.00018742
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为175
+当前网络的mse为0.0010387
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 300, MSE = 0.000205718
+当前spread值为180
+当前spread值为145
+当前网络的mse为0.0010407
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.0001946
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为185
+当前网络的mse为0.00098286
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为150
+当前网络的mse为0.00018377
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为190
+当前网络的mse为0.0010539
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 500, MSE = 0.00016723
+当前spread值为155
+当前spread值为310
+当前网络的mse为0.0011797
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为195
+当前网络的mse为0.00020693
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.0010552
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为200
+NEWRB, neurons = 100, MSE = 0.000264815
+当前spread值为160
+当前网络的mse为0.0010127
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00020257
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 400, MSE = 0.000191155
+当前spread值为205
+当前网络的mse为0.0010135
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为165
+当前网络的mse为0.00023591
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为210
+当前网络的mse为0.0010144
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 200, MSE = 0.000200749
+当前spread值为170
+当前spread值为215
+当前网络的mse为0.00024071
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.0010152
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为220
+当前spread值为175
+当前网络的mse为0.00097853
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00020652
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为225
+当前网络的mse为0.0009797
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为180
+NEWRB, neurons = 300, MSE = 0.000202656
+当前网络的mse为0.00023152
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为230
+当前网络的mse为0.00098097
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 500, MSE = 0.000196036
+当前spread值为315
+当前网络的mse为0.0002543
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为185
+当前spread值为235
+当前网络的mse为0.00022187
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.00098231
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 100, MSE = 0.000318476
+当前spread值为240
+当前spread值为190
+当前网络的mse为0.00096947
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00019482
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为245
+当前网络的mse为0.00096953
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为195
+当前网络的mse为0.00019826
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为250
+NEWRB, neurons = 200, MSE = 0.000236614
+NEWRB, neurons = 400, MSE = 0.000177358
+当前网络的mse为0.0010258
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为200
+当前spread值为255
+当前网络的mse为0.00019298
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.00098496
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为260
+当前spread值为205
+当前网络的mse为0.00098496
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00019271
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为265
+当前网络的mse为0.0010035
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 300, MSE = 0.000224959
+当前spread值为210
+当前网络的mse为0.00023724
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为270
+当前网络的mse为0.00091905
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为215
+当前spread值为275
+当前网络的mse为0.00017999
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.00091877
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 500, MSE = 0.0001849
+当前spread值为280
+当前spread值为220
+当前spread值为315
+当前网络的mse为0.00093894
+NEWRB, neurons = 0, MSE = 0.00684662
+当前网络的mse为0.00091854
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00022261
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为285
+当前网络的mse为0.00091834
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为225
+NEWRB, neurons = 100, MSE = 0.000251508
+当前网络的mse为0.00025329
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 400, MSE = 0.000205513
+当前spread值为290
+当前网络的mse为0.00091819
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为230
+当前spread值为295
+当前网络的mse为0.00024482
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.00091807
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 200, MSE = 0.000222979
+当前spread值为300
+当前spread值为235
+当前网络的mse为0.000918
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00022775
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为305
+当前网络的mse为0.00091796
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为240
+当前网络的mse为0.000226
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为310
+当前网络的mse为0.00091796
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为245
+NEWRB, neurons = 300, MSE = 0.000209361
+当前spread值为315
+当前网络的mse为0.00020994
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.00091799
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 500, MSE = 0.000205152
+当前spread值为320
+当前spread值为250
+当前spread值为320
+当前网络的mse为0.00033355
+NEWRB, neurons = 0, MSE = 0.00456709
+当前网络的mse为0.00091806
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00023751
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为325
+当前网络的mse为0.00091817
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 100, MSE = 0.000283233
+当前spread值为255
+当前网络的mse为0.00022644
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为330
+当前网络的mse为0.00092849
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为260
+当前spread值为335
+当前网络的mse为0.0002006
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.00091849
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 400, MSE = 0.000181975
+NEWRB, neurons = 200, MSE = 0.000225166
+当前spread值为340
+当前网络的mse为0.00092828
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 100, MSE = 0.000102571
+当前spread值为265
+当前网络的mse为0.00018061
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为345
+当前网络的mse为0.00092818
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为270
+当前spread值为350
+当前网络的mse为0.00019
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.00092807
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 300, MSE = 0.000225413
+当前spread值为355
+当前spread值为275
+当前网络的mse为0.0010141
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00016296
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为360
+当前网络的mse为0.0010147
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 100, MSE = 0.000104616
+当前spread值为280
+当前spread值为365
+当前网络的mse为0.00015701
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.0010153
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 500, MSE = 0.00019018
+当前spread值为320
+当前网络的mse为0.00092051
+NEWRB, neurons = 0, MSE = 0.00684662
+当前spread值为370
+NEWRB, neurons = 100, MSE = 0.000103745
+当前网络的mse为0.001016
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为285
+当前网络的mse为0.00021867
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000242189
+当前spread值为375
+当前网络的mse为0.0010167
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 400, MSE = 0.000214149
+当前spread值为380
+NEWRB, neurons = 100, MSE = 0.000106066
+当前网络的mse为0.0010174
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为290
+当前网络的mse为0.00015778
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为385
+NEWRB, neurons = 200, MSE = 0.000201985
+当前网络的mse为0.0010182
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为295
+当前spread值为390
+当前网络的mse为0.00019951
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.001019
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为395
+当前网络的mse为0.0010198
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 100, MSE = 0.000116964
+当前spread值为400
+当前spread值为300
+当前网络的mse为0.0010207
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00019341
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 300, MSE = 0.00018727
+当前spread值为405
+当前网络的mse为0.0010217
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 500, MSE = 0.000206706
+NEWRB, neurons = 100, MSE = 9.89458e-05
+当前spread值为325
+当前网络的mse为0.00026448
+NEWRB, neurons = 0, MSE = 0.00456709
+当前spread值为305
+当前网络的mse为0.00016857
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为410
+当前网络的mse为0.0010226
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为310
+NEWRB, neurons = 100, MSE = 0.000313662
+当前spread值为415
+当前网络的mse为0.00021605
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.0010236
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为420
+当前网络的mse为0.0010246
+NEWRB, neurons = 0, MSE = 0.00284958
+NEWRB, neurons = 100, MSE = 0.000104104
+NEWRB, neurons = 400, MSE = 0.000179795
+当前spread值为315
+NEWRB, neurons = 200, MSE = 0.000262472
+当前spread值为425
+当前网络的mse为0.0001938
+NEWRB, neurons = 0, MSE = 0.00445709
+当前网络的mse为0.0010257
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为430
+当前spread值为320
+当前网络的mse为0.00095614
+NEWRB, neurons = 0, MSE = 0.00284958
+当前网络的mse为0.00018621
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为435
+当前网络的mse为0.00095622
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为325
+当前网络的mse为0.00016824
+NEWRB, neurons = 0, MSE = 0.00445709
+当前spread值为440
+NEWRB, neurons = 300, MSE = 0.000230491
+当前网络的mse为0.001029
+NEWRB, neurons = 0, MSE = 0.00284958
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+uiopen('C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode\main_ardgpr_o1.m',1)
+{The client lost connection to worker 3. This might be due to network problems, or the interactive communicating job might have errored.
+} 
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+if system_dependent('IsDebugMode')==1, dbquit; end
+当前spread值为445
+当前网络的mse为0.00095652
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为450
+当前网络的mse为0.00095671
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为455
+当前网络的mse为0.00095694
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为460
+当前网络的mse为0.00090807
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为465
+当前网络的mse为0.00095753
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为470
+当前网络的mse为0.00095787
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为475
+当前网络的mse为0.00095823
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为480
+当前网络的mse为0.00090498
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为485
+当前网络的mse为0.0009591
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为490
+当前网络的mse为0.00090353
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为495
+当前网络的mse为0.00090283
+NEWRB, neurons = 0, MSE = 0.00284958
+当前spread值为500
+当前网络的mse为0.00090215
+以下为第3次交叉验证结果
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为20
+当前网络的mse为0.00016265
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为25
+当前网络的mse为0.00020775
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为30
+当前网络的mse为0.00018314
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为35
+当前网络的mse为0.000216
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为40
+当前网络的mse为0.00020209
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为45
+当前网络的mse为0.00014934
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为50
+当前网络的mse为0.00019739
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为55
+当前网络的mse为0.00016634
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为60
+当前网络的mse为0.00016007
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为65
+当前网络的mse为0.00014849
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为70
+当前网络的mse为0.00016428
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为75
+当前网络的mse为0.00017071
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为80
+当前网络的mse为0.00015591
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为85
+当前网络的mse为0.00018262
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为90
+当前网络的mse为0.00014924
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为95
+当前网络的mse为0.00017355
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为100
+当前网络的mse为0.00015771
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为105
+当前网络的mse为0.0001637
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为110
+当前网络的mse为0.00018235
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为115
+当前网络的mse为0.00017701
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为120
+当前网络的mse为0.00017201
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为125
+当前网络的mse为0.00018039
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为130
+当前网络的mse为0.00016337
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为135
+当前网络的mse为0.00016
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为140
+当前网络的mse为0.00016177
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为145
+当前网络的mse为0.00019843
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为150
+当前网络的mse为0.00019066
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为155
+当前网络的mse为0.00017554
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为160
+当前网络的mse为0.00017495
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为165
+当前网络的mse为0.0001744
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为170
+当前网络的mse为0.00019636
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为175
+当前网络的mse为0.00017016
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为180
+当前网络的mse为0.00017027
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为185
+当前网络的mse为0.00017974
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为190
+当前网络的mse为0.0001757
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为195
+当前网络的mse为0.0001827
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为200
+当前网络的mse为0.00018752
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为205
+当前网络的mse为0.00017715
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为210
+当前网络的mse为0.00016943
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为215
+当前网络的mse为0.00019352
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为220
+当前网络的mse为0.00019018
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为225
+当前网络的mse为0.00015403
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为230
+当前网络的mse为0.00016895
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为235
+当前网络的mse为0.00019404
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为240
+当前网络的mse为0.00014734
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为245
+当前网络的mse为0.0001769
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为250
+当前网络的mse为0.00017395
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为255
+当前网络的mse为0.00020839
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为260
+当前网络的mse为0.00016625
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为265
+当前网络的mse为0.00017407
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为270
+当前网络的mse为0.00019417
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为275
+当前网络的mse为0.00019183
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为280
+当前网络的mse为0.0001819
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为285
+当前网络的mse为0.00014662
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为290
+当前网络的mse为0.00013141
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为295
+当前网络的mse为0.00018509
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为300
+当前网络的mse为0.00018631
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为305
+当前网络的mse为0.00013126
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为310
+当前网络的mse为0.0001999
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为315
+当前网络的mse为0.00013555
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为320
+当前网络的mse为0.00013551
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为325
+当前网络的mse为0.00018834
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为330
+当前网络的mse为0.00019437
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为335
+当前网络的mse为0.0001669
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为340
+当前网络的mse为0.00017241
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为345
+当前网络的mse为0.00018265
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为350
+当前网络的mse为0.00019465
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为355
+当前网络的mse为0.00017741
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为360
+当前网络的mse为0.00019753
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为365
+当前网络的mse为0.00017577
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为370
+当前网络的mse为0.00016409
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为375
+当前网络的mse为0.00012768
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为380
+当前网络的mse为0.00011643
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为385
+当前网络的mse为0.00015645
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为390
+当前网络的mse为0.00019701
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为395
+当前网络的mse为0.0001794
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为400
+当前网络的mse为0.00015752
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为405
+当前网络的mse为0.00015624
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为410
+当前网络的mse为0.00013929
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为415
+当前网络的mse为0.00015557
+NEWRB, neurons = 0, MSE = 0.00301731
+NEWRB, neurons = 100, MSE = 0.000103804
+当前spread值为420
+当前网络的mse为0.00015644
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为425
+当前网络的mse为0.00014471
+NEWRB, neurons = 0, MSE = 0.00301731
+NEWRB, neurons = 100, MSE = 0.000106299
+当前spread值为430
+当前网络的mse为0.00013411
+NEWRB, neurons = 0, MSE = 0.00301731
+NEWRB, neurons = 100, MSE = 0.000101359
+当前spread值为435
+当前网络的mse为0.00014453
+NEWRB, neurons = 0, MSE = 0.00301731
+NEWRB, neurons = 100, MSE = 0.000112351
+当前spread值为440
+当前网络的mse为0.00018941
+NEWRB, neurons = 0, MSE = 0.00301731
+NEWRB, neurons = 100, MSE = 0.000111217
+当前spread值为445
+当前网络的mse为0.00016088
+NEWRB, neurons = 0, MSE = 0.00301731
+NEWRB, neurons = 100, MSE = 0.000111811
+当前spread值为450
+当前网络的mse为0.00016687
+NEWRB, neurons = 0, MSE = 0.00301731
+NEWRB, neurons = 100, MSE = 0.000103128
+当前spread值为455
+当前网络的mse为0.0001675
+NEWRB, neurons = 0, MSE = 0.00301731
+NEWRB, neurons = 100, MSE = 0.000107845
+当前spread值为460
+当前网络的mse为0.00019491
+NEWRB, neurons = 0, MSE = 0.00301731
+当前spread值为465
+当前网络的mse为0.00017546
+NEWRB, neurons = 0, MSE = 0.00301731
+NEWRB, neurons = 100, MSE = 0.000106567
+当前spread值为470
+当前网络的mse为0.0001671
+NEWRB, neurons = 0, MSE = 0.00301731
+NEWRB, neurons = 100, MSE = 0.000105482
+NEWRB, neurons = 200, MSE = 0.000106142
+当前spread值为475
+NEWRB, neurons = 100, MSE = 9.89699e-05
+当前spread值为330
+当前网络的mse为0.00020765
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000110274
+当前spread值为335
+当前网络的mse为0.00022898
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000105421
+当前spread值为340
+当前网络的mse为0.00020001
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000107923
+当前spread值为345
+当前网络的mse为0.00018088
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000115544
+当前spread值为350
+当前网络的mse为0.00018441
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000116999
+当前spread值为355
+当前网络的mse为0.00018147
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000117165
+当前spread值为360
+当前网络的mse为0.0001992
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000122224
+当前spread值为365
+当前网络的mse为0.00020805
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000114263
+当前spread值为370
+当前网络的mse为0.00020651
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.00011769
+当前spread值为375
+当前网络的mse为0.00021598
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000113842
+当前spread值为380
+当前网络的mse为0.00018747
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000123002
+当前spread值为385
+当前网络的mse为0.00021837
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000138985
+NEWRB, neurons = 200, MSE = 0.000112269
+当前spread值为390
+当前网络的mse为0.0001738
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000130363
+NEWRB, neurons = 200, MSE = 0.000105795
+当前spread值为395
+当前网络的mse为0.00016598
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000126998
+当前spread值为400
+当前网络的mse为0.0001448
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000125996
+NEWRB, neurons = 200, MSE = 0.000110089
+当前spread值为405
+当前网络的mse为0.00017075
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000125187
+NEWRB, neurons = 200, MSE = 0.000112032
+当前spread值为410
+当前网络的mse为0.00019652
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000134209
+NEWRB, neurons = 200, MSE = 0.000105226
+当前spread值为415
+当前网络的mse为0.0001582
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000123658
+当前spread值为420
+当前网络的mse为0.00015932
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000123373
+NEWRB, neurons = 200, MSE = 0.000112913
+当前spread值为425
+当前网络的mse为0.00018912
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000130013
+NEWRB, neurons = 200, MSE = 0.000113565
+当前spread值为430
+当前网络的mse为0.00020144
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.00013082
+NEWRB, neurons = 200, MSE = 0.000114055
+NEWRB, neurons = 300, MSE = 0.000122008
+NEWRB, neurons = 400, MSE = 0.00011577
+NEWRB, neurons = 500, MSE = 0.000111135
+当前spread值为435
+当前网络的mse为0.0001993
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000131619
+NEWRB, neurons = 200, MSE = 0.00011052
+NEWRB, neurons = 300, MSE = 0.000105103
+当前spread值为440
+当前网络的mse为0.00018076
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.00013983
+NEWRB, neurons = 200, MSE = 0.000131005
+NEWRB, neurons = 300, MSE = 0.000113885
+NEWRB, neurons = 400, MSE = 0.000115019
+NEWRB, neurons = 500, MSE = 0.00011512
+当前spread值为445
+当前网络的mse为0.00016953
+NEWRB, neurons = 0, MSE = 0.00445709
+NEWRB, neurons = 100, MSE = 0.000125124
+NEWRB, neurons = 200, MSE = 0.000119283
+NEWRB, neurons = 300, MSE = 0.000110534
+NEWRB, neurons = 400, MSE = 0.000105113
+NEWRB, neurons = 400, MSE = 0.000213941
+NEWRB, neurons = 500, MSE = 0.00020222
+当前spread值为330
+当前网络的mse为0.00025434
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.00028691
+NEWRB, neurons = 200, MSE = 0.000271479
+NEWRB, neurons = 300, MSE = 0.000245754
+NEWRB, neurons = 400, MSE = 0.000229441
+NEWRB, neurons = 500, MSE = 0.000217209
+当前spread值为335
+当前网络的mse为0.00023092
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000473012
+NEWRB, neurons = 200, MSE = 0.000417043
+NEWRB, neurons = 300, MSE = 0.000353409
+NEWRB, neurons = 400, MSE = 0.000293927
+NEWRB, neurons = 500, MSE = 0.000238652
+当前spread值为340
+当前网络的mse为0.00026219
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000381397
+NEWRB, neurons = 200, MSE = 0.000322191
+NEWRB, neurons = 300, MSE = 0.000257598
+NEWRB, neurons = 400, MSE = 0.000237022
+NEWRB, neurons = 500, MSE = 0.000209183
+当前spread值为345
+当前网络的mse为0.00026314
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000447674
+NEWRB, neurons = 200, MSE = 0.000328733
+NEWRB, neurons = 300, MSE = 0.000290393
+NEWRB, neurons = 400, MSE = 0.000306681
+NEWRB, neurons = 500, MSE = 0.000272904
+当前spread值为350
+当前网络的mse为0.00036891
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000485044
+NEWRB, neurons = 200, MSE = 0.000383397
+NEWRB, neurons = 300, MSE = 0.000313219
+NEWRB, neurons = 400, MSE = 0.000308728
+NEWRB, neurons = 500, MSE = 0.000262951
+当前spread值为355
+当前网络的mse为0.00024288
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.000326251
+NEWRB, neurons = 200, MSE = 0.000258052
+NEWRB, neurons = 300, MSE = 0.000245958
+NEWRB, neurons = 400, MSE = 0.000227525
+NEWRB, neurons = 500, MSE = 0.00022192
+当前spread值为360
+当前网络的mse为0.00024492
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.00037295
+NEWRB, neurons = 200, MSE = 0.000290459
+NEWRB, neurons = 300, MSE = 0.000291729
+NEWRB, neurons = 400, MSE = 0.000272206
+NEWRB, neurons = 500, MSE = 0.000250025
+当前spread值为365
+当前网络的mse为0.00032752
+NEWRB, neurons = 0, MSE = 0.00456709
+NEWRB, neurons = 100, MSE = 0.00041267
+NEWRB, neurons = 200, MSE = 0.000309995
+NEWRB, neurons = 500, MSE = 0.00018415
+当前spread值为325
+当前网络的mse为0.00093646
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000267586
+NEWRB, neurons = 200, MSE = 0.000218379
+NEWRB, neurons = 300, MSE = 0.000200862
+NEWRB, neurons = 400, MSE = 0.000204096
+NEWRB, neurons = 500, MSE = 0.000198055
+当前spread值为330
+当前网络的mse为0.0011016
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000267742
+NEWRB, neurons = 200, MSE = 0.000223816
+NEWRB, neurons = 300, MSE = 0.00020782
+NEWRB, neurons = 400, MSE = 0.000188674
+NEWRB, neurons = 500, MSE = 0.00019374
+当前spread值为335
+当前网络的mse为0.00098234
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000273711
+NEWRB, neurons = 200, MSE = 0.000211596
+NEWRB, neurons = 300, MSE = 0.000202253
+NEWRB, neurons = 400, MSE = 0.000203979
+NEWRB, neurons = 500, MSE = 0.000188339
+当前spread值为340
+当前网络的mse为0.00098955
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000263967
+NEWRB, neurons = 200, MSE = 0.000241105
+NEWRB, neurons = 300, MSE = 0.000217738
+NEWRB, neurons = 400, MSE = 0.000213449
+NEWRB, neurons = 500, MSE = 0.000189316
+当前spread值为345
+当前网络的mse为0.00092399
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000278592
+NEWRB, neurons = 200, MSE = 0.000226248
+NEWRB, neurons = 300, MSE = 0.000206286
+NEWRB, neurons = 400, MSE = 0.000175558
+NEWRB, neurons = 500, MSE = 0.00017692
+当前spread值为350
+当前网络的mse为0.00070815
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000279425
+NEWRB, neurons = 200, MSE = 0.000232215
+NEWRB, neurons = 300, MSE = 0.000202778
+NEWRB, neurons = 400, MSE = 0.000220987
+NEWRB, neurons = 500, MSE = 0.000210551
+当前spread值为355
+当前网络的mse为0.00072798
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.00028757
+NEWRB, neurons = 200, MSE = 0.000224746
+NEWRB, neurons = 300, MSE = 0.000242743
+NEWRB, neurons = 400, MSE = 0.000232785
+NEWRB, neurons = 500, MSE = 0.000222209
+当前spread值为360
+当前网络的mse为0.00074152
+NEWRB, neurons = 0, MSE = 0.00684662
+NEWRB, neurons = 100, MSE = 0.000280533
+NEWRB, neurons = 200, MSE = 0.000254273
+NEWRB, neurons = 300, MSE = 0.000220414
+NEWRB, neurons = 400, MSE = 0.000218327
