@@ -1,29 +1,29 @@
-%ÔËĞĞµÄÖ÷º¯Êı£º¶ÔÃ¿¸öÊı¾İ¼¯µ÷ÓÃÎå¸öËã·¨
+%è¿è¡Œçš„ä¸»å‡½æ•°ï¼šå¯¹æ¯ä¸ªæ•°æ®é›†è°ƒç”¨äº”ä¸ªç®—æ³•
 clear;
 close all;
 %Start Parallel Compute
-core_number=5;            %ÏëÒªµ÷ÓÃµÄ´¦ÀíÆ÷¸öÊı
+core_number=25;            %æƒ³è¦è°ƒç”¨çš„å¤„ç†å™¨ä¸ªæ•°
 parpool('local',core_number);
 ProjectDir = pwd;
 % ProjectDir='/home/lab421/MATLAB/projects/YanHaoqiuBgggr_constrastOnlyforCode';
-ProjectDir='C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode';
-SysPathSeperator='\';
-% SysPathSeperator='/';
+% ProjectDir='C:\Users\admin\MATLAB\Projects\bgggr_constract';
+% SysPathSeperator='\';
+SysPathSeperator='/';
 AutomsDir='atoms2';
 AutomsPath=[ProjectDir, SysPathSeperator, AutomsDir];
-algorithm='rbfnn';
+algorithm='opgr';
 CsvoutputDir=[algorithm, '_output'];
 CsvoutputPath=[ProjectDir, SysPathSeperator, CsvoutputDir];
-diary([ProjectDir, SysPathSeperator, 'n4_rbfnn_log1.txt'])
+diary([ProjectDir, SysPathSeperator, 'h15_opgr_log1.txt'])
 %cd [ProjectDir, SysPathSeperator, RootDir]
-AutomList=dir(AutomsPath); %»ñµÃo1,c2,...
+AutomList=dir(AutomsPath); %è·å¾—o1,c2,...
 for j=1:length(AutomList)
-    %Ìø¹ıfileList½á¹¹ÌåÖĞÇ°Á½ĞĞ£¬²¢É¸µô²»ÊÇÎÄ¼ş¼ĞµÄ
+    %è·³è¿‡fileListç»“æ„ä½“ä¸­å‰ä¸¤è¡Œï¼Œå¹¶ç­›æ‰ä¸æ˜¯æ–‡ä»¶å¤¹çš„
     if strcmp(AutomList(j).name,'.')==1 || strcmp(AutomList(j).name,'..')==1 || ~AutomList(j).isdir
         continue;
     end
     autom=AutomList(j).name;
-	if strcmp(autom,'n4') == 0
+	if strcmp(autom,'h15') == 0
         disp(autom);
         continue 
 	end
@@ -31,7 +31,7 @@ for j=1:length(AutomList)
     FitsTable=table;
     StatisticsTable=table;
     parfor i=1:length(DataSetsList)
-        %Ìø¹ıfileList½á¹¹ÌåÖĞÇ°Á½ĞĞ
+        %è·³è¿‡fileListç»“æ„ä½“ä¸­å‰ä¸¤è¡Œ
         if strcmp(DataSetsList(i).name,'.')==1 || strcmp(DataSetsList(i).name,'..')==1
             continue;
         end
@@ -40,19 +40,19 @@ for j=1:length(AutomList)
         DataSetNoExtn=DataSetNoExtn{1};
         DataSetPath=[AutomsPath, SysPathSeperator, autom, SysPathSeperator, DataSetsList(i).name];
         disp(['DataSet is: ', DataSetPath])
-        [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=rbfnn(DataSetPath);
+        [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=opgr(DataSetPath);
 
-        %½«Ô¤²âÖµ´æÈëtable
+        %å°†é¢„æµ‹å€¼å­˜å…¥table
         %eval(['FitsTable.', DataSetNoExtn, '=ytest_fit;']);
         ytest_fit_cell = num2cell(ytest_fit');
         FitsTable(i,:)=ytest_fit_cell;
            
-        %½«mse, time´æÈëtable
+        %å°†mse, timeå­˜å…¥table
         StatisticsTable(i, :)={train_rmse, train_mse, test_rmse,...
-            test_mse, time, DataSetNoExtn};
+            test_mse, train_pll, test_pll, time, DataSetNoExtn};
     end
     delete(gcp('nocreate'))
-%     %ÅĞ¶ÏÓĞÃ»ÓĞ¸ÃÔ­×ÓµÄÎÄ¼ş¼Ğ
+%     %åˆ¤æ–­æœ‰æ²¡æœ‰è¯¥åŸå­çš„æ–‡ä»¶å¤¹
     if ~isfolder([CsvoutputPath, SysPathSeperator, autom])
         mkdir([CsvoutputPath, SysPathSeperator, autom])
     end
@@ -60,12 +60,12 @@ for j=1:length(AutomList)
     FitsCsvPath=[CsvoutputPath, SysPathSeperator, autom, SysPathSeperator, FitsCsvName];
 
     StatisticsTable.Properties.VariableNames={'train rmse', 'train mse',...
-        'test_rmse', 'test_mse', 'time', 'data_set_name'};
+        'test_rmse', 'test_mse', 'train_pll', 'test_pll', 'time', 'data_set_name'};
     StatisticsCsvName=['statistics_', autom, '_', algorithm, '.csv'];
     StatisticsCsvPath=[CsvoutputPath, SysPathSeperator, autom, SysPathSeperator, StatisticsCsvName];
 
     writetable(FitsTable, FitsCsvPath, 'WriteVariableNames', true)
     writetable(StatisticsTable, StatisticsCsvPath, 'WriteRowNames', true, 'WriteVariableNames', true)
-    break
+     break
 end
 diary off

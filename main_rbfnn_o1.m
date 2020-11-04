@@ -4,7 +4,7 @@ close all;
 %Start Parallel Compute
 core_number=5;            %想要调用的处理器个数
 parpool('local',core_number);
-% disp(['pwd4: ', pwd])
+ProjectDir = pwd;
 % ProjectDir='/home/lab421/MATLAB/projects/YanHaoqiuBgggr_constrastOnlyforCode';
 ProjectDir='C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode';
 SysPathSeperator='\';

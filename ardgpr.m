@@ -1,4 +1,4 @@
-function [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=ardgpr(filedata)
+function [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, train_pll, test_pll, time]=ardgpr(filedata)
 %% 加载数据
 data = load(filedata);  
 trainingData=data.train;
@@ -10,66 +10,95 @@ ytest=testData(:,76);
 %% 模型训练
 tic
 
-desired_i=[];
-mse_max=1;
+mean(xtrain), std(xtrain), mean(ytrain), std(ytrain)
+offset = mean(ytrain);
+disp('  y = y - offset;        % centre targets around 0')
+ytrain = ytrain - offset;
+
+covfunc = {'covSum', {'covSEard','covNoise'}};
+
+
+logtheta0 = [0;0;0;0;0;  0;0;0;0;0;0;0;0;0;0; 0;0;0;0;0;0;0;0;0;0; 0;0;0;0;0;0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0;0;0;0;0;0;0;0;0;0; 0; 0; 0; 0;0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0;      0;0;0;0;0;  0; log(0.9)];
+
+[logtheta, fvals, iter] = minimize(logtheta0, 'gpr', -100, covfunc, xtrain, ytrain);
+
+disp(' ')
+disp('We now plot the negative marginal likelihood as a function of the')
+disp('number of line-searches of the optimization routine.')
+% disp(' ');
+% disp('Press any key to make the plot.')
+% pause;
+
+% plot(fvals)
+% hold on
+% plot(fvals,'bo')
+% ylabel('negative marginal likelihood')
+% xlabel('number of line-searches')
+% hold off
+
+disp(' ')
+disp('We now study the learned hyperparameters:')
+disp(' ')
+% disp('Press any key to continue')
+% pause;
+
+disp(' ')
+
 A=[];
-spread_result=[];
-
-for i=1:1:100
-     % disp(['当前循环为',num2str(i)])
-     [trainedModel, validationRMSE] = trainRegressionModel_10fold_75_SE(trainingData);
-     cur_rmse=validationRMSE;
-     cur_mse=cur_rmse^2;
-     disp(['当前模型的rmse为',num2str(cur_rmse)]);
-     disp(['当前模型的mse为',num2str(cur_mse)]);
-     
-     ytrain_fit = trainedModel.predictFcn(xtrain);
-     train_error=ytrain-ytrain_fit;
-     train_mse = mse(train_error);
-     train_rmse=sqrt(train_mse);
-     ytest_fit = trainedModel.predictFcn(xtest);
-     test_error=ytest-ytest_fit;
-     test_mse = mse(test_error);
-     test_rmse=sqrt(test_mse);
-     A=[i,train_mse,train_rmse,test_mse,test_rmse,cur_mse,cur_rmse];
-     spread_result=[A;spread_result];
-        
-     if test_mse<mse_max
-         mse_max=test_mse;
-          % desired_i=i;
-         tenfoldmodel75=trainedModel;
-     end
+ell_result=[];
+for i=1:75
+    fprintf(1, 'ell_ %d \t\t%12.6f\n',i,exp(logtheta(i)));
+    A=[i,exp(logtheta(i))];
+    ell_result=[A;ell_result;];
 end
-disp(['第',num2str(desired_i),'循环效果最佳'])
+fprintf(1, 'sigma_f \t%12.6f\n',exp(logtheta(76)));
+A=[76,exp(logtheta(76))];
+ell_result=[A;ell_result;];
+fprintf(1, 'sigma_n \t%12.6f\n',exp(logtheta(77 )));
+A=[77,exp(logtheta(77))];
+ell_result=[A;ell_result;];
 
-% toc
-%% 数据预测
-ytrain_fit = tenfoldmodel75.predictFcn(xtrain);
-train_error=ytrain-ytrain_fit;
+% 训练�?
+[ytrain_fit, S2_train] = gpr(logtheta, covfunc, xtrain, ytrain, xtrain);
+ytrain_fit = ytrain_fit + offset;
+train_error = ytrain-ytrain_fit;
 train_mse = mse(train_error);
-train_rmse=sqrt(train_mse);
-
-ytest_fit = tenfoldmodel75.predictFcn(xtest);
-test_error=ytest-ytest_fit;
+train_rmse = sqrt(train_mse);
+train_pll = -0.5*mean(log(2*pi*S2_train)+train_error.^2./S2_train);
+% 测试�?
+[ytest_fit, S2_test] = gpr(logtheta, covfunc, xtrain, ytrain, xtest);
+ytest_fit = ytest_fit + offset;
+test_error = ytest-ytest_fit;
 test_mse = mse(test_error);
-test_rmse=sqrt(test_mse);
+test_rmse = sqrt(test_mse);
+test_pll = -0.5*mean(log(2*pi*S2_test)+test_error.^2./S2_test);
 
-disp(['GPR预测train的rmse误差为',num2str(train_rmse)]);
-disp(['GPR预测train的mse误差为',num2str(train_mse)]);
-disp(['GPR预测test的rmse误差为',num2str(test_rmse)]);
-disp(['GPR预测test的mse误差为',num2str(test_mse)]);
+fprintf(1,'The test mse is %10.6f\n', test_mse);
+fprintf(1,'The test RMSE is %10.6f\n', test_rmse);
+fprintf(1,'and the test mean predictive log likelihood is %6.4f.\n', test_pll);
+time = toc;
 
-time=toc;
-%% 将预测值写入excel中
-%load('reo1_gpr_nofold.mat')
-% xlswrite('o1_gpr75_10fold_ytest_fit.xlsx',ytest_fit,'ytest_fit');
-% b={'train rmse',train_rmse;'train mse',train_mse;
-    % 'test_rmse',test_rmse;'test_mse',test_mse;
-    % 'time',time};
-% xlswrite('o1_gpr75_10fold_ytest_fit.xlsx', b, 'model mes');
+%% 绘制并保存图�?
+
 %% 记录运行时间
-disp(['gpr的运行时间为',time]);
-save([filedata, '_gpr_process.mat'])
+disp(['ardgpr的运行时间为',time]);
+save([filedata, '_ardgpr_process.mat'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
