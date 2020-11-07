@@ -17,7 +17,7 @@ spread_result=[];
 
 for i=1:1:100
      % disp(['当前循环�?',num2str(i)])
-     [trainedModel, validationRMSE] = trainRegressionModel_nofold_75_SE(trainingData);
+     [trainedModel, validationRMSE] = trainRegressionModel_10fold_75_SE(trainingData);
      cur_rmse=validationRMSE;
      cur_mse=cur_rmse^2;
      disp(['当前模型的rmse�?',num2str(cur_rmse)]);
