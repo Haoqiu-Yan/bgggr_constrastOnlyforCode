@@ -58,14 +58,14 @@ fprintf(1, 'sigma_n \t%12.6f\n',exp(logtheta(77 )));
 A=[77,exp(logtheta(77))];
 ell_result=[A;ell_result;];
 
-% 训练�?
+% 训练
 [ytrain_fit, S2_train] = gpr(logtheta, covfunc, xtrain, ytrain, xtrain);
 ytrain_fit = ytrain_fit + offset;
 train_error = ytrain-ytrain_fit;
 train_mse = mse(train_error);
 train_rmse = sqrt(train_mse);
 train_pll = -0.5*mean(log(2*pi*S2_train)+train_error.^2./S2_train);
-% 测试�?
+% 测试
 [ytest_fit, S2_test] = gpr(logtheta, covfunc, xtrain, ytrain, xtest);
 ytest_fit = ytest_fit + offset;
 test_error = ytest-ytest_fit;
@@ -78,7 +78,7 @@ fprintf(1,'The test RMSE is %10.6f\n', test_rmse);
 fprintf(1,'and the test mean predictive log likelihood is %6.4f.\n', test_pll);
 time = toc;
 
-%% 绘制并保存图�?
+%% 绘制并保存图
 
 %% 记录运行时间
 disp(['ardgpr的运行时间为',time]);

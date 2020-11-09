@@ -16,12 +16,12 @@ A=[];
 spread_result=[];
 
 for i=1:1:100
-     % disp(['当前循环�?',num2str(i)])
+     % disp(['当前循环次数为',num2str(i)])
      [trainedModel, validationRMSE] = trainRegressionModel_10fold_75_SE(trainingData);
      cur_rmse=validationRMSE;
      cur_mse=cur_rmse^2;
-     disp(['当前模型的rmse�?',num2str(cur_rmse)]);
-     disp(['当前模型的mse�?',num2str(cur_mse)]);
+     disp(['当前模型的rmse为?',num2str(cur_rmse)]);
+     disp(['当前模型的mse为?',num2str(cur_mse)]);
      
      ytrain_fit = trainedModel.predictFcn(xtrain);
      train_error=ytrain-ytrain_fit;
@@ -40,7 +40,7 @@ for i=1:1:100
          nofoldmodel75=trainedModel;
      end
 end
-disp(['�?',num2str(desired_i),'循环效果�?�?'])
+disp(['最佳循环i是',num2str(desired_i)])
 
 % toc
 %% 数据预测

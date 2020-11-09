@@ -40,7 +40,7 @@ for j=1:length(AutomList)
         DataSetNoExtn=DataSetNoExtn{1};
         DataSetPath=[AutomsPath, SysPathSeperator, autom, SysPathSeperator, DataSetsList(i).name];
         disp(['DataSet is: ', DataSetPath])
-        [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=ardgpr(DataSetPath);
+        [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, train_pll, test_pll, time]=ardgpr(DataSetPath);
 
         %将预测值存入table
         %eval(['FitsTable.', DataSetNoExtn, '=ytest_fit;']);
@@ -49,7 +49,7 @@ for j=1:length(AutomList)
            
         %将mse, time存入table
         StatisticsTable(i, :)={train_rmse, train_mse, test_rmse,...
-            test_mse, time, DataSetNoExtn};
+            test_mse, train_pll, test_pll, time, DataSetNoExtn};
     end
     delete(gcp('nocreate'))
 %     %判断有没有该原子的文件夹
@@ -60,7 +60,7 @@ for j=1:length(AutomList)
     FitsCsvPath=[CsvoutputPath, SysPathSeperator, autom, SysPathSeperator, FitsCsvName];
 
     StatisticsTable.Properties.VariableNames={'train rmse', 'train mse',...
-        'test_rmse', 'test_mse', 'time', 'data_set_name'};
+        'test_rmse', 'test_mse', 'train_pll', 'test_pll', 'time', 'data_set_name'};
     StatisticsCsvName=['statistics_', autom, '_', algorithm, '.csv'];
     StatisticsCsvPath=[CsvoutputPath, SysPathSeperator, autom, SysPathSeperator, StatisticsCsvName];
 
