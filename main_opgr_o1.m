@@ -40,7 +40,7 @@ for j=1:length(AutomList)
         DataSetNoExtn=DataSetNoExtn{1};
         DataSetPath=[AutomsPath, SysPathSeperator, autom, SysPathSeperator, DataSetsList(i).name];
         disp(['DataSet is: ', DataSetPath])
-        [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=opgr(DataSetPath);
+        [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=ogpr(DataSetPath);
 
         %将预测值存入table
         %eval(['FitsTable.', DataSetNoExtn, '=ytest_fit;']);
