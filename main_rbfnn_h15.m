@@ -2,13 +2,13 @@
 clear;
 close all;
 %Start Parallel Compute
-core_number=5;            %想要调用的处理器个数
+core_number=25;            %想要调用的处理器个数
 parpool('local',core_number);
 ProjectDir = pwd;
 % ProjectDir='/home/lab421/MATLAB/projects/YanHaoqiuBgggr_constrastOnlyforCode';
-ProjectDir='C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode';
-SysPathSeperator='\';
-% SysPathSeperator='/';
+% ProjectDir='C:\Users\admin\MATLAB\Projects\bgggr_constrastOnlyforCode';
+% SysPathSeperator='\';
+SysPathSeperator='/';
 AutomsDir='atoms2';
 AutomsPath=[ProjectDir, SysPathSeperator, AutomsDir];
 algorithm='rbfnn';
