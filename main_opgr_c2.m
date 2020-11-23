@@ -66,6 +66,5 @@ for j=1:length(AutomList)
 
     writetable(FitsTable, FitsCsvPath, 'WriteVariableNames', true)
     writetable(StatisticsTable, StatisticsCsvPath, 'WriteRowNames', true, 'WriteVariableNames', true)
-     break
 end
 diary off

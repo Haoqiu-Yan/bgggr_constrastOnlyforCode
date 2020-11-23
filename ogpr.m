@@ -1,4 +1,4 @@
-function [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=change_ogpr(filedata)
+﻿function [ytest_fit, train_rmse, train_mse, test_rmse, test_mse, time]=ogpr(filedata)
 %% 加载数据
 data = load(filedata);  
 trainingData=data.train;
@@ -60,7 +60,7 @@ disp(['GPR预测test的rmse误差?',num2str(test_rmse)]);
 disp(['GPR预测test的mse误差?',num2str(test_mse)]);
 
 time=toc;
-%% 将预测�?�写入excel�?
+%% 将预测写入excel
 %load('reo1_gpr_nofold.mat')
 % xlswrite('o1_gpr75_10fold_ytest_fit.xlsx',ytest_fit,'ytest_fit');
 % b={'train rmse',train_rmse;'train mse',train_mse;
@@ -70,8 +70,4 @@ time=toc;
 %% 记录运行时间
 disp(['ogpr的运行时间为',time]);
 save([filedata, '_ogpr_process.mat'])
-
-
-
-
 

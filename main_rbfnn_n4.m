@@ -2,7 +2,7 @@
 clear;
 close all;
 %Start Parallel Compute
-core_number=25;            %想要调用的处理器个数
+core_number=35;            %想要调用的处理器个数
 parpool('local',core_number);
 ProjectDir = pwd;
 % ProjectDir='/home/lab421/MATLAB/projects/YanHaoqiuBgggr_constrastOnlyforCode';
@@ -50,7 +50,7 @@ for j=1:length(AutomList)
         StatisticsTable(i, :)={train_rmse, train_mse, test_rmse,...
             test_mse, time, DataSetNoExtn};
     end
-    delete(gcp('nocreate'))
+    %delete(gcp('nocreate'))
 %     %判断有没有该原子的文件夹
     if ~isfolder([CsvoutputPath, SysPathSeperator, autom])
         mkdir([CsvoutputPath, SysPathSeperator, autom])

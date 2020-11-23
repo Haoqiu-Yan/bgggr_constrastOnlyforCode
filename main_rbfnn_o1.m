@@ -2,7 +2,7 @@
 clear;
 close all;
 %Start Parallel Compute
-core_number=5;            %想要调用的处理器个数
+core_number=35;            %想要调用的处理器个数
 parpool('local',core_number);
 ProjectDir = pwd;
 % ProjectDir='/home/lab421/MATLAB/projects/YanHaoqiuBgggr_constrastOnlyforCode';
@@ -13,7 +13,7 @@ AutomsPath=[ProjectDir, SysPathSeperator, AutomsDir];
 algorithm='rbfnn';
 CsvoutputDir=[algorithm, '_output'];
 CsvoutputPath=[ProjectDir, SysPathSeperator, CsvoutputDir];
-diary([ProjectDir, SysPathSeperator, 'o1_rbfnn_log1.txt'])
+diary([ProjectDir, SysPathSeperator, 'o1_rbfnn_log4.txt'])
 %cd [ProjectDir, SysPathSeperator, RootDir]
 AutomList=dir(AutomsPath); %获得o1,c2,...
 for j=1:length(AutomList)
@@ -50,7 +50,7 @@ for j=1:length(AutomList)
         StatisticsTable(i, :)={train_rmse, train_mse, test_rmse,...
             test_mse, time, DataSetNoExtn};
     end
-    delete(gcp('nocreate'))
+    % delete(gcp('nocreate')) % 关闭并行池
 %     %判断有没有该原子的文件夹
     if ~isfolder([CsvoutputPath, SysPathSeperator, autom])
         mkdir([CsvoutputPath, SysPathSeperator, autom])
@@ -65,6 +65,5 @@ for j=1:length(AutomList)
 
     writetable(FitsTable, FitsCsvPath, 'WriteVariableNames', true)
     writetable(StatisticsTable, StatisticsCsvPath, 'WriteRowNames', true, 'WriteVariableNames', true)
-    break
 end
 diary off
